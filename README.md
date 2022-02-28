@@ -4,6 +4,16 @@ I am Daniil Boyarinkov. Just a regular student doing all my best reaching a goal
 
 ---
 
+## Pssss...
+
+By the way here's my **codewars acc** where I continously and permanently solving different katas (problems)
+
+I find it extremely interesting and crucial for me on the way of becoming a better programmer. ^_^
+
+[Codewars...](https://www.codewars.com/users/BitDittoWit)
+
+---
+
 ## My main projects (from newest to the oldest)
 
 #### React To Do App
