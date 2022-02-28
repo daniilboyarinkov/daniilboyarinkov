@@ -4,7 +4,15 @@ I am Daniil Boyarinkov. Just a regular student doing all my best reaching a goal
 
 ---
 
-## My projects (from newest to the oldest)
+## My main projects (from newest to the oldest)
+
+#### React To Do App
+
+![picture](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
+
+[Link to the project](https://github.com/daniilboyarinkov/React_To-Do-App-Example)
+
+---
 
 #### Cat game projects
 
