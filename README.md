@@ -14,7 +14,17 @@ I find it extremely interesting and crucial for me on the way of becoming a bett
 
 ---
 
-## My main projects (from newest to the oldest)
+## Interested in books? So am I!
+
+If you would be interested in seeing my little Library. **You are welcome...**
+
+Here's the link:
+
+[Link to the repo with books you'll probably be interested to read](https://github.com/daniilboyarinkov/Library)
+
+---
+
+## My main web projects (from newest to the oldest)
 
 #### React To Do App
 
