@@ -8,6 +8,8 @@ I am Daniil Boyarinkov. Just a regular student doing all my best reaching a goal
 
 By the way here's my **codewars acc** where I continously and permanently solving different katas (problems)
 
+<img width="318" alt="CodeWars Img" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
+
 I find it extremely interesting and crucial for me on the way of becoming a better programmer. ^_^
 
 [Codewars...](https://www.codewars.com/users/BitDittoWit)
@@ -17,6 +19,8 @@ I find it extremely interesting and crucial for me on the way of becoming a bett
 ## Interested in books? So am I!
 
 If you would be interested in seeing my little Library. **You are welcome...**
+
+![Books](https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png)
 
 Here's the link:
 
