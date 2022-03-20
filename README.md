@@ -30,7 +30,7 @@ Here's the link:
 
 ![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
 
-**[Сылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
+**[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
 
 ---
 
