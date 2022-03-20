@@ -28,13 +28,27 @@ Here's the link:
 
 ---
 
+![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
+
+**[Сылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
+
+---
+
+#### Node JS Telegram bot "Warcraft 3 Stickers"
+
+![Telegram stickerpack img.png](https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg)
+
+**[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+
+---
+
 ## My main web projects (from newest to the oldest)
 
 #### React To Do App
 
 ![picture](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
 
-[Link to the project](https://github.com/daniilboyarinkov/React_To-Do-App-Example)
+**[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
 
 ---
 
@@ -42,7 +56,7 @@ Here's the link:
 
 ![picture](https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png)
 
-[Link to the project](https://github.com/daniilboyarinkov/Cat_game_project)
+**[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
 ---
 
@@ -50,7 +64,7 @@ Here's the link:
 
 ![picture](https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png)
 
-[Link to the project](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)
+**[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
 ---
 
