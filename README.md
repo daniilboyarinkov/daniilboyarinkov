@@ -34,6 +34,8 @@ Here's the link:
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
 
+[React js, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+
 ---
 
 ### Markup editor
@@ -42,6 +44,8 @@ Here's the link:
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
 
+[React js, Markdown, React functional components, useState hook, ]
+
 ---
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
@@ -49,6 +53,8 @@ Here's the link:
 ![Telegram stickerpack img.png](https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg)
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+
+[Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
 ---
 
@@ -60,6 +66,8 @@ Here's the link:
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
 
+[React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
+
 ---
 
 #### Cat game projects
@@ -68,6 +76,8 @@ Here's the link:
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
+[Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
+
 ---
 
 #### My first web project ever
@@ -75,6 +85,8 @@ Here's the link:
 ![picture](https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png)
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
+
+[HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
 
 ---
 
