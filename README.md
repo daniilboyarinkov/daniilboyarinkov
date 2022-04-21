@@ -28,6 +28,16 @@ Here's the link:
 
 ---
 
+### Interesting facts about numbers
+
+![preview](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png)
+
+**[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
+
+---
+
+### Markup editor
+
 ![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
