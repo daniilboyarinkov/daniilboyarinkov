@@ -34,7 +34,7 @@ Here's the link:
 
 **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
 
-[React js, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+[React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
 ---
 
