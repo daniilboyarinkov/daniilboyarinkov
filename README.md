@@ -28,6 +28,10 @@ Here's the link:
 
 ---
 
+## My main web projects (from newest to the oldest)
+
+---
+
 ### Bored api fetch
 
 Are you bored? I can help you with an idea of what you can do
@@ -35,6 +39,9 @@ Are you bored? I can help you with an idea of what you can do
 ![preview](https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg)
 
 [React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
 
 ---
 
@@ -52,7 +59,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
 
 [React js, Markdown, React functional components, useState hook, ]
 
@@ -62,19 +69,17 @@ Are you bored? I can help you with an idea of what you can do
 
 ![Telegram stickerpack img.png](https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
 
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
 ---
 
-## My main web projects (from newest to the oldest)
-
 #### React To Do App
 
 ![picture](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
 
 [React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
 
@@ -84,7 +89,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ![picture](https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
 [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
 
