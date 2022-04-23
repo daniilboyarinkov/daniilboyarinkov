@@ -49,7 +49,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ![preview](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
 
 [React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
@@ -99,7 +99,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ![picture](https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png)
 
-**[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
 [HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
 
