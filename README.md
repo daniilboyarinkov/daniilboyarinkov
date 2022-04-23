@@ -28,6 +28,16 @@ Here's the link:
 
 ---
 
+### Bored api fetch
+
+Are you bored? I can help you with an idea of what you can do
+
+![preview](https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg)
+
+[React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+
+---
+
 ### Interesting facts about numbers
 
 ![preview](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png)
