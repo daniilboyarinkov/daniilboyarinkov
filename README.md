@@ -38,7 +38,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ![preview](https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg)
 
-[React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+[React js, fetching API, Theme toggle, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
