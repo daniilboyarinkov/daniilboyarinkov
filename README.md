@@ -32,6 +32,18 @@ Here's the link:
 
 ---
 
+### BDwRA - Firefox Extension that reads aloud the selected text.
+
+This is my first Firefox extension just for touching the ground of how on Earth do extensions work.
+
+![preview](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension/blob/master/for_readme/3.png)
+
+[Vanilla JS, Firefox Web Extension API, DOM manipulations, Selection Web API, Speech Web API, Context Menu Modification]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension)**
+
+---
+
 ### Bored api fetch
 
 Are you bored? I can help you with an idea of what you can do
