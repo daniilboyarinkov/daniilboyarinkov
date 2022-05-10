@@ -32,6 +32,18 @@ Here's the link:
 
 ---
 
+### WearBestDresses - Online Shop
+
+My implementation of Online Shop built on React. 
+
+![preview](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg)
+
+[React, React-roter-dom, React-copy-to-clickboard, Express, Python Scraping]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop)**
+
+---
+
 ### BDwRA - Firefox Extension that reads aloud the selected text.
 
 This is my first Firefox extension just for touching the ground of how on Earth do extensions work.
