@@ -132,9 +132,19 @@ Are you bored? I can help you with an idea of what you can do
 
 # C#
 
+## Лабораторные работы:
+
+### 2 семестр
+
 ![preview](https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg)
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
+
+### 1 семестр
+
+## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_1semester)**
+
+P.S. 10 консольных приложений, не фанат консольных приложений, поэтому фото нет
 
 ---
 
