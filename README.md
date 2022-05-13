@@ -28,6 +28,7 @@ Here's the link:
 
 ---
 
+# JavaScript
 ## My main web projects (from newest to the oldest)
 
 ---
@@ -126,6 +127,14 @@ Are you bored? I can help you with an idea of what you can do
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
 [HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
+
+---
+
+# C#
+
+![preview](https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg)
+
+## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
 ---
 
