@@ -33,6 +33,18 @@ Here's the link:
 
 ---
 
+### 15 puzzle game
+
+I enjoy playing 15, thus I've decided to create this game by learning some new stuff.
+
+![preview](https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg)
+
+[React custom hooks, Singleton pattern, OOP]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/15PuzzleGame)**
+
+---
+
 ### WearBestDresses - Online Shop
 
 My implementation of Online Shop built on React. 
