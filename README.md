@@ -33,6 +33,30 @@ Here's the link:
 
 ---
 
+### Gwent Intro Deck
+
+Great implementation of previous "Skeleton" project.
+
+![preview](https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg)
+
+[React, React-Spring, Use-Gesture, Eslint, Prettier]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
+
+---
+
+### Card Swiper
+
+Just a skeleton for future projects
+
+![preview](https://github.com/daniilboyarinkov/Card-Swiper/raw/master/for_readme/2.jpg)
+
+[React, React-Spring, Use-Gesture, Eslint, Prettier]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Card-Swiper)**
+
+---
+
 ### 15 puzzle game
 
 I enjoy playing 15, thus I've decided to create this game by learning some new stuff.
