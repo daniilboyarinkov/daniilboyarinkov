@@ -16,18 +16,6 @@ I find it extremely interesting and crucial for me on the way of becoming a bett
 
 ---
 
-## Interested in books? So am I!
-
-If you would be interested in seeing my little Library. **You are welcome...**
-
-![Books](https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png)
-
-Here's the link:
-
-[Link to the repo with books you'll probably be interested to read](https://github.com/daniilboyarinkov/Library)
-
----
-
 # JavaScript
 ## My main web projects (from newest to the oldest)
 
@@ -185,6 +173,18 @@ P.S. 10 консольных приложений, не фанат консол�
 ---
 
 All the other stuff of mine u can easily see by yourself in my repos. 
+
+---
+
+## Interested in books? So am I!
+
+If you would be interested in seeing my little Library. **You are welcome...**
+
+![Books](https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png)
+
+Here's the link:
+
+[Link to the repo with books you'll probably be interested to read](https://github.com/daniilboyarinkov/Library)
 
 ---
 
