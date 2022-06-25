@@ -17,7 +17,7 @@ I find it extremely interesting and crucial for me on the way of becoming a bett
 ---
 
 # JavaScript
-## My main web projects (from newest to the oldest)
+## My main web projects (from the newest to the oldest)
 
 ---
 
