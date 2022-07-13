@@ -2,12 +2,6 @@
 -------------------------------------------------------
 -->
 
-<style>
-   h1 {
-  align: center;
-}
-</style>
-
 <h1> Welcome! </h1>
 
 Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a GOOD programmer.
@@ -39,7 +33,7 @@ Great implementation of previous "Skeleton" project.
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 
-[React, React-Spring, Use-Gesture, Eslint, Prettier]
+<p style="font-weight:700;"> [React, React-Spring, Use-Gesture, Eslint, Prettier] </p>
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
 
