@@ -22,11 +22,11 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 ---
 
 ### Gwent Intro Deck
-#### 2022 y.
+#### 📅 2022y.
 
 Great implementation of previous "Skeleton" project.
 
-![preview](https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 
 [React, React-Spring, Use-Gesture, Eslint, Prettier]
 
@@ -35,11 +35,11 @@ Great implementation of previous "Skeleton" project.
 ---
 
 ### Card Swiper
-#### 2022 y.
+#### 📅 2022y.
 
 Just a skeleton for future projects
 
-![preview](https://github.com/daniilboyarinkov/Card-Swiper/raw/master/for_readme/2.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Card-Swiper/raw/master/for_readme/2.jpg">
 
 [React, React-Spring, Use-Gesture, Eslint, Prettier]
 
@@ -48,11 +48,11 @@ Just a skeleton for future projects
 ---
 
 ### 15 puzzle game
-#### 2022 y.
+#### 📅 2022y.
 
 I enjoy playing 15, thus I've decided to create this game and learn some new stuff.
 
-![preview](https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg">
 
 [React custom hooks, Singleton pattern, OOP]
 
@@ -61,11 +61,11 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 ---
 
 ### WearBestDresses - Online Shop
-#### 2022 y.
+#### 📅 2022y.
 
 My implementation of Online Shop built on React. 
 
-![preview](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg">
 
 [React, React-roter-dom, React-copy-to-clickboard, Express, Python Scraping]
 
@@ -74,11 +74,11 @@ My implementation of Online Shop built on React.
 ---
 
 ### BDwRA - Firefox Extension that reads aloud the selected text.
-#### 2022 y.
+#### 📅 2022y.
 
 This is my first Firefox extension just for touching the ground of how on Earth do extensions work.
 
-![preview](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension/blob/master/for_readme/3.png)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension/blob/master/for_readme/3.png">
 
 [Vanilla JS, Firefox Web Extension API, DOM manipulations, Selection Web API, Speech Web API, Context Menu Modification]
 
@@ -86,12 +86,12 @@ This is my first Firefox extension just for touching the ground of how on Earth 
 
 ---
 
-### Bored api fetch
-#### 2022 y.
+### Boredom api fetch
+#### 📅 2022y.
 
 Are you bored? I can help you with an idea of what you can do
 
-![preview](https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg">
 
 [React js, fetching API, Theme toggle, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
@@ -101,9 +101,9 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 ### Interesting facts about numbers
-#### 2022 y.
+#### 📅 2022y.
 
-![preview](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
 
@@ -112,9 +112,9 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 ### Markup editor
-#### 2021 y.
+#### 📅 2021y.
 
-![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
 
@@ -123,9 +123,9 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
-#### 2021-2022 ys.
+#### 📅 2021-2022ys.
 
-![Telegram stickerpack img.png](https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg)
+<img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
 
@@ -134,9 +134,9 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### React To Do App
-#### 2021 y.
+#### 📅 2021y.
 
-![picture](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
 
@@ -145,9 +145,9 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### Cat game projects
-#### 2021 y.
+#### 📅 2021y.
 
-![picture](https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png)
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
@@ -155,10 +155,10 @@ Are you bored? I can help you with an idea of what you can do
 
 ---
 
-#### My first web project ever
-#### 2021 y.
+#### My first sth web-related
+#### 📅 2021y.
 
-![picture](https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png)
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png">
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
@@ -173,7 +173,7 @@ Are you bored? I can help you with an idea of what you can do
 ### 2 семестр
 #### 2022 y.
 
-![preview](https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg)
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg">
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
