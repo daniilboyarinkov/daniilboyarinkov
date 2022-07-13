@@ -2,7 +2,7 @@
 -------------------------------------------------------
 -->
 
-<h1> Welcome! </h1>
+<h1 align="center"> Welcome! </h1>
 
 Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a **_GOOD_** programmer.
 
