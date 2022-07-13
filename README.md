@@ -193,13 +193,12 @@ All the other stuff of mine u can easily see by yourself in my repos.
 ---
 
 ## Interested in books? So am I!
-Here is my little Library. **You are welcome...**
 
 <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
 
-Here's the link:
+Here is my little Library. **You are welcome...**
 
-[Link to the repo with books you'll probably be interested to read](https://github.com/daniilboyarinkov/Library)
+[My Wee Little Library](https://github.com/daniilboyarinkov/Library)
 
 ---
 
