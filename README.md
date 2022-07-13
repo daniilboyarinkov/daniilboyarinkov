@@ -179,7 +179,7 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
 
-Here is my little Library. **You are welcome...**
+---
 
 **_[My Wee Little Library](https://github.com/daniilboyarinkov/Library)_**
 
@@ -190,10 +190,6 @@ Here is my little Library. **You are welcome...**
 ---
 
 ---
-
-That is probably it. 
-
-All the other stuff of mine u can easily see yourself in my repos. 
 
 Thank you all for a bit of attention
 
