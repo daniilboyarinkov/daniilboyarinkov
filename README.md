@@ -15,7 +15,8 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
 <h1 align="center"> JavaScript </h1>
-## Main Web projects of mine (sorted by date descending)
+
+<p align="center"> Main Web projects of mine (sorted by date descending) </p>
 
 ### Gwent Intro Deck
 <p align="right"> 📅 2022y. </p>
