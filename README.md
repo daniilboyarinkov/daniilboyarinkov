@@ -1,4 +1,7 @@
-# Welcome!
+<!---
+-------------------------------------------------------
+-->
+<h1 align="center"> Welcome! </h1>
 
 Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a GOOD programmer.
 
@@ -13,6 +16,10 @@ By de way, here's my **codewars acc**.
 I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
 
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
+
+<!---
+-------------------------------------------------------
+-->
 
 <h1 align="center"> JavaScript </h1>
 
@@ -142,6 +149,10 @@ Are you bored? I can help you with an idea of what you can do
 
 ---
 
+<!---
+-------------------------------------------------------
+-->
+
 <h1 align="center"> C# </h1>
 
 ## Лабораторные работы:
@@ -162,6 +173,10 @@ Are you bored? I can help you with an idea of what you can do
 
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
+<!---
+-------------------------------------------------------
+-->
+
 ## Interested in books? So am I!
 
 <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
@@ -169,6 +184,10 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 Here is my little Library. **You are welcome...**
 
 [My Wee Little Library](https://github.com/daniilboyarinkov/Library)
+
+<!---
+-------------------------------------------------------
+-->
 
 ---
 
