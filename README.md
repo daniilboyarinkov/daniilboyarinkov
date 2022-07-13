@@ -33,7 +33,7 @@ Great implementation of previous "Skeleton" project.
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 
-<font size="1"> [React, React-Spring, Use-Gesture, Eslint, Prettier] </font>
+<font size="0.5"> [React, React-Spring, Use-Gesture, Eslint, Prettier] </font>
 
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
