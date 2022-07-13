@@ -8,6 +8,14 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 ---
 
+# Languages:
+
+- **_[JavaScript](https://github.com/daniilboyarinkov#-javascript-)_**
+- **_[C#](https://github.com/daniilboyarinkov#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)_**
+- **_Python (No Link - U may c repos)_**
+
+---
+
 ## Pssss...
 
 <img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
