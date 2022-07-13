@@ -19,10 +19,8 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 # JavaScript
 ## Main web projects of mine (sorted by date descending)
 
----
-
 ### Gwent Intro Deck
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 Great implementation of previous "Skeleton" project.
 
@@ -32,7 +30,6 @@ Great implementation of previous "Skeleton" project.
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
 
----
 
 ### Card Swiper
 #### 📅 2022y.
@@ -45,8 +42,6 @@ Just a skeleton for future projects
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Card-Swiper)**
 
----
-
 ### 15 puzzle game
 #### 📅 2022y.
 
@@ -57,8 +52,6 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 [React custom hooks, Singleton pattern, OOP]
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/15PuzzleGame)**
-
----
 
 ### WearBestDresses - Online Shop
 #### 📅 2022y.
@@ -71,8 +64,6 @@ My implementation of Online Shop built on React.
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop)**
 
----
-
 ### BDwRA - Firefox Extension that reads aloud the selected text.
 #### 📅 2022y.
 
@@ -83,8 +74,6 @@ This is my first Firefox extension just for touching the ground of how on Earth 
 [Vanilla JS, Firefox Web Extension API, DOM manipulations, Selection Web API, Speech Web API, Context Menu Modification]
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension)**
-
----
 
 ### Boredom api fetch
 #### 📅 2022y.
@@ -98,8 +87,6 @@ Are you bored? I can help you with an idea of what you can do
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
 
----
-
 ### Interesting facts about numbers
 #### 📅 2022y.
 
@@ -108,8 +95,6 @@ Are you bored? I can help you with an idea of what you can do
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
 
 [React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
-
----
 
 ### Markup editor
 #### 📅 2021y.
@@ -120,8 +105,6 @@ Are you bored? I can help you with an idea of what you can do
 
 [React js, Markdown, React functional components, useState hook, ]
 
----
-
 #### Node JS Telegram bot "Warcraft 3 Stickers"
 #### 📅 2021-2022ys.
 
@@ -130,8 +113,6 @@ Are you bored? I can help you with an idea of what you can do
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
 
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
-
----
 
 #### React To Do App
 #### 📅 2021y.
@@ -142,8 +123,6 @@ Are you bored? I can help you with an idea of what you can do
 
 [React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
 
----
-
 #### Cat game projects
 #### 📅 2021y.
 
@@ -152,8 +131,6 @@ Are you bored? I can help you with an idea of what you can do
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
 [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
-
----
 
 #### My first sth web-related
 #### 📅 2021y.
@@ -186,12 +163,6 @@ Are you bored? I can help you with an idea of what you can do
 
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
----
-
-All the other stuff of mine u can easily see by yourself in my repos. 
-
----
-
 ## Interested in books? So am I!
 
 <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
@@ -203,6 +174,8 @@ Here is my little Library. **You are welcome...**
 ---
 
 That is probably it. 
+
+All the other stuff of mine u can easily see by yourself in my repos. 
 
 Thank you all for a bit of attention
 
