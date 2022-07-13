@@ -1,27 +1,28 @@
 # Welcome!
 
-I am Daniil Boyarinkov. Just a regular student doing all my best reaching a goal of becoming a programmer (kinda unreal but nevertheless...).
+Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a GOOD programmer.
 
 ---
 
 ## Pssss...
 
-By the way here's my **codewars acc** where I continously and permanently solving different katas (problems)
+By de way, here's my **codewars acc**.
 
-<img width="318" alt="CodeWars Img" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
+<img align="left" width="150" alt="CodeWars Img" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
 
-I find it extremely interesting and crucial for me on the way of becoming a better programmer. ^_^
+I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
 
-[Codewars...](https://www.codewars.com/users/BitDittoWit)
+**_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
 ---
 
 # JavaScript
-## My main web projects (from the newest to the oldest)
+## Main web projects of mine (sorted by date descending)
 
 ---
 
 ### Gwent Intro Deck
+#### 2022 y.
 
 Great implementation of previous "Skeleton" project.
 
@@ -34,6 +35,7 @@ Great implementation of previous "Skeleton" project.
 ---
 
 ### Card Swiper
+#### 2022 y.
 
 Just a skeleton for future projects
 
@@ -46,8 +48,9 @@ Just a skeleton for future projects
 ---
 
 ### 15 puzzle game
+#### 2022 y.
 
-I enjoy playing 15, thus I've decided to create this game by learning some new stuff.
+I enjoy playing 15, thus I've decided to create this game and learn some new stuff.
 
 ![preview](https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg)
 
@@ -58,6 +61,7 @@ I enjoy playing 15, thus I've decided to create this game by learning some new s
 ---
 
 ### WearBestDresses - Online Shop
+#### 2022 y.
 
 My implementation of Online Shop built on React. 
 
@@ -70,6 +74,7 @@ My implementation of Online Shop built on React.
 ---
 
 ### BDwRA - Firefox Extension that reads aloud the selected text.
+#### 2022 y.
 
 This is my first Firefox extension just for touching the ground of how on Earth do extensions work.
 
@@ -82,6 +87,7 @@ This is my first Firefox extension just for touching the ground of how on Earth 
 ---
 
 ### Bored api fetch
+#### 2022 y.
 
 Are you bored? I can help you with an idea of what you can do
 
@@ -95,6 +101,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 ### Interesting facts about numbers
+#### 2022 y.
 
 ![preview](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png)
 
@@ -105,6 +112,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 ### Markup editor
+#### 2021 y.
 
 ![markup editor img](https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg)
 
@@ -115,6 +123,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
+#### 2021-2022 ys.
 
 ![Telegram stickerpack img.png](https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg)
 
@@ -125,6 +134,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### React To Do App
+#### 2021 y.
 
 ![picture](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
 
@@ -135,6 +145,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### Cat game projects
+#### 2021 y.
 
 ![picture](https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png)
 
@@ -145,6 +156,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 #### My first web project ever
+#### 2021 y.
 
 ![picture](https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png)
 
@@ -159,16 +171,20 @@ Are you bored? I can help you with an idea of what you can do
 ## Лабораторные работы:
 
 ### 2 семестр
+#### 2022 y.
 
 ![preview](https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg)
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
+---
+
 ### 1 семестр
+#### 2021 y.
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_1semester)**
 
-P.S. 10 консольных приложений, не фанат консольных приложений, поэтому фото нет
+P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 ---
 
@@ -177,8 +193,7 @@ All the other stuff of mine u can easily see by yourself in my repos.
 ---
 
 ## Interested in books? So am I!
-
-If you would be interested in seeing my little Library. **You are welcome...**
+Here is my little Library. **You are welcome...**
 
 ![Books](https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png)
 
