@@ -4,7 +4,7 @@
 
 <h1> Welcome! </h1>
 
-Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a GOOD programmer.
+Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a **_GOOD_** programmer.
 
 ---
 
@@ -33,7 +33,8 @@ Great implementation of previous "Skeleton" project.
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 
-[React, React-Spring, Use-Gesture, Eslint, Prettier]
+<font size="8"> [React, React-Spring, Use-Gesture, Eslint, Prettier] </font>
+
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
 
