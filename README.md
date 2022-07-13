@@ -115,7 +115,7 @@ Are you bored? I can help you with an idea of what you can do
 #### Node JS Telegram bot "Warcraft 3 Stickers"
 <p align="right"> 📅 2021-2022ys. </p>
 
-<img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg"
+<img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg">
 
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
@@ -163,8 +163,6 @@ Are you bored? I can help you with an idea of what you can do
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
----
-
 ### 1 семестр
 <p align="right"> 📅 2021y. </p>
 
@@ -182,7 +180,7 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 Here is my little Library. **You are welcome...**
 
-**[My Wee Little Library](https://github.com/daniilboyarinkov/Library)**
+**_[My Wee Little Library](https://github.com/daniilboyarinkov/Library)_**
 
 <!---
 -------------------------------------------------------
