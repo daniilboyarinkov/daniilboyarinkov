@@ -33,7 +33,7 @@ Great implementation of previous "Skeleton" project.
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 
-<p style="font-weight:700;"> [React, React-Spring, Use-Gesture, Eslint, Prettier] </p>
+[React, React-Spring, Use-Gesture, Eslint, Prettier]
 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
 
@@ -182,11 +182,13 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 Here is my little Library. **You are welcome...**
 
-[My Wee Little Library](https://github.com/daniilboyarinkov/Library)
+**[My Wee Little Library](https://github.com/daniilboyarinkov/Library)**
 
 <!---
 -------------------------------------------------------
 -->
+
+---
 
 ---
 
