@@ -1,7 +1,14 @@
 <!---
 -------------------------------------------------------
 -->
-<h1 align="center"> Welcome! </h1>
+
+<style>
+   h1 {
+  align: center;
+}
+</style>
+
+<h1> Welcome! </h1>
 
 Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a GOOD programmer.
 
@@ -107,47 +114,45 @@ Are you bored? I can help you with an idea of what you can do
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg">
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
-
 [React js, Markdown, React functional components, useState hook, ]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
 <p align="right"> 📅 2021-2022ys. </p>
 
-<img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg">
-
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+<img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg"
 
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+     
 #### React To Do App
 <p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png">
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
-
 [React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
 
 #### Cat game projects
 <p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png">
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
-
 [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
+
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
 
 #### My first sth web-related
 <p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png">
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
-
 [HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
 
----
+## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
 <!---
 -------------------------------------------------------
@@ -193,7 +198,7 @@ Here is my little Library. **You are welcome...**
 
 That is probably it. 
 
-All the other stuff of mine u can easily see by yourself in my repos. 
+All the other stuff of mine u can easily see yourself in my repos. 
 
 Thank you all for a bit of attention
 
