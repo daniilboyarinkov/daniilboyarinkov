@@ -14,7 +14,7 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
-# JavaScript
+<h1 align="center"> JavaScript </h1>
 ## Main Web projects of mine (sorted by date descending)
 
 ### Gwent Intro Deck
@@ -141,7 +141,7 @@ Are you bored? I can help you with an idea of what you can do
 
 ---
 
-# C#
+<h1 align="center"> C# </h1>
 
 ## Лабораторные работы:
 
