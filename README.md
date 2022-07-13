@@ -6,9 +6,9 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 ## Pssss...
 
-By de way, here's my **codewars acc**.
+<img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
 
-<img align="left" width="150" alt="CodeWars Img" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
+By de way, here's my **codewars acc**.
 
 I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
 
@@ -195,7 +195,7 @@ All the other stuff of mine u can easily see by yourself in my repos.
 ## Interested in books? So am I!
 Here is my little Library. **You are welcome...**
 
-![Books](https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png)
+<img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
 
 Here's the link:
 
