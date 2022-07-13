@@ -14,10 +14,8 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
----
-
 # JavaScript
-## Main web projects of mine (sorted by date descending)
+## Main Web projects of mine (sorted by date descending)
 
 ### Gwent Intro Deck
 <p align="right"> 📅 2022y. </p>
@@ -32,7 +30,7 @@ Great implementation of previous "Skeleton" project.
 
 
 ### Card Swiper
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 Just a skeleton for future projects
 
@@ -43,7 +41,7 @@ Just a skeleton for future projects
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Card-Swiper)**
 
 ### 15 puzzle game
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 I enjoy playing 15, thus I've decided to create this game and learn some new stuff.
 
@@ -54,7 +52,7 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/15PuzzleGame)**
 
 ### WearBestDresses - Online Shop
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 My implementation of Online Shop built on React. 
 
@@ -65,7 +63,7 @@ My implementation of Online Shop built on React.
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop)**
 
 ### BDwRA - Firefox Extension that reads aloud the selected text.
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 This is my first Firefox extension just for touching the ground of how on Earth do extensions work.
 
@@ -76,7 +74,7 @@ This is my first Firefox extension just for touching the ground of how on Earth 
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension)**
 
 ### Boredom api fetch
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 Are you bored? I can help you with an idea of what you can do
 
@@ -88,7 +86,7 @@ Are you bored? I can help you with an idea of what you can do
 ## **[Ссылка на проект](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
 
 ### Interesting facts about numbers
-#### 📅 2022y.
+<p align="right"> 📅 2022y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png">
 
@@ -97,7 +95,7 @@ Are you bored? I can help you with an idea of what you can do
 [React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
 ### Markup editor
-#### 📅 2021y.
+<p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg">
 
@@ -106,7 +104,7 @@ Are you bored? I can help you with an idea of what you can do
 [React js, Markdown, React functional components, useState hook, ]
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
-#### 📅 2021-2022ys.
+<p align="right"> 📅 2021-2022ys. </p>
 
 <img width="100%" alt="preview" src="https://st1.latestly.com/wp-content/uploads/2020/12/Telegram-1-380x214.jpg">
 
@@ -115,7 +113,7 @@ Are you bored? I can help you with an idea of what you can do
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
 #### React To Do App
-#### 📅 2021y.
+<p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png">
 
@@ -124,7 +122,7 @@ Are you bored? I can help you with an idea of what you can do
 [React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
 
 #### Cat game projects
-#### 📅 2021y.
+<p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png">
 
@@ -133,7 +131,7 @@ Are you bored? I can help you with an idea of what you can do
 [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
 
 #### My first sth web-related
-#### 📅 2021y.
+<p align="right"> 📅 2021y. </p>
 
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png">
 
@@ -148,7 +146,7 @@ Are you bored? I can help you with an idea of what you can do
 ## Лабораторные работы:
 
 ### 2 семестр
-#### 2022 y.
+<p align="right"> 📅 2022y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg">
 
@@ -157,7 +155,7 @@ Are you bored? I can help you with an idea of what you can do
 ---
 
 ### 1 семестр
-#### 2021 y.
+<p align="right"> 📅 2021y. </p>
 
 ## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_1semester)**
 
