@@ -1,6 +1,4 @@
-<!---
--------------------------------------------------------
--->
+<!------------------------------------------------------------>
 
 <h1 align="center"> Welcome! </h1>
 
@@ -28,13 +26,13 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
-<!---
--------------------------------------------------------
--->
+<!------------------------------------------------------------>
 
 <h1 align="center"> JavaScript </h1>
 
-<p align="center"> Main Web projects of mine (sorted by date descending) </p>
+<p align="center"> Main Web-Projects of mine (sorted by date descending) </p>
+
+<!------------------------------------------------------------>
 
 ### Gwent Intro Deck
 <p align="right"> 📅 2022y. </p>
@@ -46,8 +44,9 @@ Great implementation of previous "Skeleton" project.
 [React, React-Spring, Use-Gesture, Eslint, Prettier]
 
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
+## **[Project Link](https://github.com/daniilboyarinkov/Gwent-Intro-Deck)**
 
+<!------------------------------------------------------------>
 
 ### Card Swiper
 <p align="right"> 📅 2022y. </p>
@@ -58,7 +57,9 @@ Just a skeleton for future projects
 
 [React, React-Spring, Use-Gesture, Eslint, Prettier]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Card-Swiper)**
+## **[Project Link](https://github.com/daniilboyarinkov/Card-Swiper)**
+
+<!------------------------------------------------------------>
 
 ### 15 puzzle game
 <p align="right"> 📅 2022y. </p>
@@ -69,7 +70,9 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 
 [React custom hooks, Singleton pattern, OOP]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/15PuzzleGame)**
+## **[Project Link](https://github.com/daniilboyarinkov/15PuzzleGame)**
+
+<!------------------------------------------------------------>
 
 ### WearBestDresses - Online Shop
 <p align="right"> 📅 2022y. </p>
@@ -80,7 +83,9 @@ My implementation of Online Shop built on React.
 
 [React, React-roter-dom, React-copy-to-clickboard, Express, Python Scraping]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop)**
+## **[Project Link](https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop)**
+
+<!------------------------------------------------------------>
 
 ### BDwRA - Firefox Extension that reads aloud the selected text.
 <p align="right"> 📅 2022y. </p>
@@ -91,7 +96,9 @@ This is my first Firefox extension just for touching the ground of how on Earth 
 
 [Vanilla JS, Firefox Web Extension API, DOM manipulations, Selection Web API, Speech Web API, Context Menu Modification]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension)**
+## **[Project Link](https://github.com/daniilboyarinkov/Read-Aloud-Firefox-Extension)**
+
+<!------------------------------------------------------------>
 
 ### Boredom api fetch
 <p align="right"> 📅 2022y. </p>
@@ -102,17 +109,20 @@ Are you bored? I can help you with an idea of what you can do
 
 [React js, fetching API, Theme toggle, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
 
+## **[Project Link](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/bored-api-fetch-react)**
+<!------------------------------------------------------------>
 
 ### Interesting facts about numbers
 <p align="right"> 📅 2022y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers/blob/master/preview.png">
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
-
 [React js, fetching API, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+
+## **[Project Link](https://github.com/daniilboyarinkov/InterestingFactsAboutNumbers)**
+
+<!------------------------------------------------------------>
 
 ### Markup editor
 <p align="right"> 📅 2021y. </p>
@@ -121,7 +131,9 @@ Are you bored? I can help you with an idea of what you can do
 
 [React js, Markdown, React functional components, useState hook, ]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/markdown-learning-editor)**
+## **[Project Link](https://github.com/daniilboyarinkov/markdown-learning-editor)**
+
+<!------------------------------------------------------------>
 
 #### Node JS Telegram bot "Warcraft 3 Stickers"
 <p align="right"> 📅 2021-2022ys. </p>
@@ -130,7 +142,9 @@ Are you bored? I can help you with an idea of what you can do
 
 [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+## **[Project Link](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)**
+     
+<!------------------------------------------------------------>
      
 #### React To Do App
 <p align="right"> 📅 2021y. </p>
@@ -139,7 +153,9 @@ Are you bored? I can help you with an idea of what you can do
 
 [React JS, React Class Components, Conditional Rendering, CSS Component Modules, LocalStorage Interactions, Drag & Drop Feature using react-beautiful-dnd]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
+## **[Project Link](https://github.com/daniilboyarinkov/React_To-Do-App-Example)**
+
+<!------------------------------------------------------------>
 
 #### Cat game projects
 <p align="right"> 📅 2021y. </p>
@@ -148,7 +164,9 @@ Are you bored? I can help you with an idea of what you can do
 
 [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Cat_game_project)**
+## **[Project Link](https://github.com/daniilboyarinkov/Cat_game_project)**
+
+<!------------------------------------------------------------>
 
 #### My first sth web-related
 <p align="right"> 📅 2021y. </p>
@@ -157,11 +175,9 @@ Are you bored? I can help you with an idea of what you can do
 
 [HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
 
-## **[Ссылка на проект](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
+## **[Project Link](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
 
-<!---
--------------------------------------------------------
--->
+<!------------------------------------------------------------>
 
 <h1 align="center"> C# </h1>
 
@@ -178,24 +194,22 @@ Are you bored? I can help you with an idea of what you can do
 < Laboratory Works >
 
 ### 2 семестр
-< 2nd semester >
+< 2nd Semester >
 <p align="right"> 📅 2022y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg">
 
-## **[Лабы 2-ой семестр](https://github.com/daniilboyarinkov/Labworks_2semester)**
+## **[Labs 2nd Semester](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
 ### 1 семестр
-< 1st semester >
+< 1st Semester >
 <p align="right"> 📅 2021y. </p>
 
-## **[Лабы 1-ый семестр](https://github.com/daniilboyarinkov/Labworks_1semester)**
+## **[Labs 1st Semester](https://github.com/daniilboyarinkov/Labworks_1semester)**
 
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
-<!---
--------------------------------------------------------
--->
+<!------------------------------------------------------------>
 
 ## Interested in books? So am I!
 
@@ -205,9 +219,7 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 **_[My Wee Little Library](https://github.com/daniilboyarinkov/Library)_**
 
-<!---
--------------------------------------------------------
--->
+<!------------------------------------------------------------>
 
 ---
 
