@@ -165,19 +165,31 @@ Are you bored? I can help you with an idea of what you can do
 
 <h1 align="center"> C# </h1>
 
+## Ознакомительная практика:
+< University Introductory Practice Work >
+
+<p align="right"> 📅 2022y. </p>
+
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/176946926-2aad8450-5fc0-4b43-8d98-58dd97e19e1b.png">
+
+## **[Ознакомительная практика](https://github.com/daniilboyarinkov/UniversityIntroductoryPracticeWork)**
+
 ## Лабораторные работы:
+< Laboratory Works >
 
 ### 2 семестр
+< 2nd semester >
 <p align="right"> 📅 2022y. </p>
 
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Labworks_2semester/blob/master/For_Readme/LabWork5/preview.jpg">
 
-## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_2semester)**
+## **[Лабы 2-ой семестр](https://github.com/daniilboyarinkov/Labworks_2semester)**
 
 ### 1 семестр
+< 1st semester >
 <p align="right"> 📅 2021y. </p>
 
-## **[Ссылка на репо](https://github.com/daniilboyarinkov/Labworks_1semester)**
+## **[Лабы 1-ый семестр](https://github.com/daniilboyarinkov/Labworks_1semester)**
 
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
