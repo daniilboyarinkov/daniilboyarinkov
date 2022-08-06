@@ -18,11 +18,10 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 ## Pssss...
 
-<img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
-
-By de way, here's my **codewars acc**.
+|<img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">| <p>By de way, here's my <b>codewars acc.</b>
 
 I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
+</p>
 
 **_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
 
