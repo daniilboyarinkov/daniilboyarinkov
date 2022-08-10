@@ -10,8 +10,8 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 <table>
      <tr>
-          <td>
-          <img width="150" align="left" alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png">
+          <td align="left">
+          <img alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png" width="150" >
           </td>
           <td>
                <ul>
@@ -221,23 +221,29 @@ Are you bored? I can help you with an idea of what you can do
 < 1st Semester >
 <p align="right"> 📅 2021y. </p>
 
-## **[Labs 1st Semester](https://github.com/daniilboyarinkov/Labworks_1semester)**
-
 P.S. 10 console applications, am not a fan of them, thus, no photos.
+
+## **[Labs 1st Semester](https://github.com/daniilboyarinkov/Labworks_1semester)**
 
 <!------------------------------------------------------------>
 
 ## Interested in books? So am I!
 
+
+
+
+<table>
+<tr>
+<td>
 <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
-
----
-
-**_[My Wee Little Library](https://github.com/daniilboyarinkov/Library)_**
+</td>
+<td>
+<b><i>[My Wee Little Library](https://github.com/daniilboyarinkov/Library)</b></i>
+</td>
+</tr>
+</table>
 
 <!------------------------------------------------------------>
-
----
 
 ---
 
