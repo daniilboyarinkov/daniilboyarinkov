@@ -11,7 +11,7 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 <table>
      <tr>
           <td>
-          <img align="left" alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png">
+          <img width="150" align="left" alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png">
           </td>
           <td>
                <ul>
