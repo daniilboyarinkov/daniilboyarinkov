@@ -33,14 +33,27 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 ## Pssss...
 
-<img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
+<table>
+     <tr>
+          <td>
 
-<p>By de way, here's my <b>codewars acc.</b>
+               <img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
 
-I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
-</p>
+               <a href="https://www.codewars.com/users/BitDittoWit"><b><i>Codewars...</i></b></a>
 
-**_[Codewars...](https://www.codewars.com/users/BitDittoWit)_**
+          </td>
+          <td>
+               <p>By de way, here's my <b>codewars acc.</b>
+
+               I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
+               </p>
+
+          </td>
+     </tr>
+</table>
+
+
+
 
 <!------------------------------------------------------------>
 
@@ -233,22 +246,20 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 
 <table>
-<tr>
-<td>
-<img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
-</td>
-<td>
-<b><i>[My Wee Little Library](https://github.com/daniilboyarinkov/Library)</b></i>
-</td>
-</tr>
+     <tr>
+          <td>
+          <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
+          </td>
+          <td>
+          <b><i><a href="https://github.com/daniilboyarinkov/Library">My Wee Little Library</a></b></i>
+          </td>
+     </tr>
 </table>
 
 <!------------------------------------------------------------>
 
----
 
-Thank you all for a bit of attention
+     Thank you all for a bit of attention
 
----
 
 > I'm just learning...
