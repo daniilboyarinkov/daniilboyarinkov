@@ -8,10 +8,26 @@ Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becomin
 
 # Languages:
 
-| ![Languages](https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png) | **_[JavaScript](https://github.com/daniilboyarinkov#-javascript-)_**  
-**_[C#](https://github.com/daniilboyarinkov#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)_**  
-**_Python (No Link - U may c repos)_** |
-| --- | --- |
+<table>
+     <tr>
+          <td>
+          <img align="left" alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png">
+          </td>
+          <td>
+               <ul>
+                    <li>
+                         <a href="https://github.com/daniilboyarinkov#-javascript-">JavaScript</a>
+                    </li>
+                    <li>
+                         <a href="https://github.com/daniilboyarinkov#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">C#</a>
+                    </li>
+                    <li>
+                         Python
+                    </li>
+               </ul>
+          </td>
+     </tr>
+</table>
 
 ---
 
