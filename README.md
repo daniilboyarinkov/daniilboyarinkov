@@ -58,6 +58,19 @@ I find solving katas extremely thought-provoking and crucial on the way of becom
 
 <!------------------------------------------------------------>
 
+### Character Generator
+<p align="right"> 📅 2022y. </p>
+
+Character Generator (CG) generates a unique image for you, which you will want to implement in your drawings.
+
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/185416637-599d256a-2978-4c8e-8b1c-3c81e5ef4e52.jpg">
+
+[React, React-Spring, React Context, EmailJS, Custom React Hooks, ImgToCanvas, useLocalStorage, EsLint, Prettier, StyleLint, VS code env configs, Yarn PM]
+
+## **[Project Link](https://github.com/daniilboyarinkov/CharacterGenerator)**
+
+<!------------------------------------------------------------>
+
 ### Gwent Intro Deck
 <p align="right"> 📅 2022y. </p>
 
