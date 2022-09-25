@@ -83,6 +83,19 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+## :open_book: Interested in books? So am I!
+
+<table>
+     <tr>
+          <td>
+          <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
+          </td>
+          <td>
+          <b><i><a href="https://github.com/daniilboyarinkov/Library">My Wee Little Library</a></b></i>
+          </td>
+     </tr>
+</table>
+  
 <!------------------------------------------------------------>
 
 <h1 align="center"> JavaScript </h1>
@@ -267,21 +280,6 @@ Are you bored? I can help you with an idea of what you can do
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 ## **[Labs 1st Semester](https://github.com/daniilboyarinkov/Labworks_1semester)**
-
-<!------------------------------------------------------------>
-
-## Interested in books? So am I!
-
-<table>
-     <tr>
-          <td>
-          <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
-          </td>
-          <td>
-          <b><i><a href="https://github.com/daniilboyarinkov/Library">My Wee Little Library</a></b></i>
-          </td>
-     </tr>
-</table>
 
 <!------------------------------------------------------------>
 
