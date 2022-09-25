@@ -2,32 +2,27 @@
 
 <h1 align="center"> Welcome! </h1>
 
-Am Daniel Boyarinkov. A regular student doing my best to reach a goal of becoming a **_GOOD_** programmer.
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="100"/>
+</div>
 
----
-
-# Languages:
-
-<table>
-<tr>
-     <td align="left">
-     <img alt="Languages" src="https://user-images.githubusercontent.com/89917619/178768624-43f51cd2-a151-488a-8f26-cad8c202500f.png" width="150" >
-     </td>
-     <td>
-          <ul>
-               <li>
-                    <a href="https://github.com/daniilboyarinkov#-javascript-">JavaScript</a>
-               </li>
-               <li>
-                    <a href="https://github.com/daniilboyarinkov#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B">C#</a>
-               </li>
-               <li>
-                    Python
-               </li>
-          </ul>
-     </td>
-</tr>
-</table>
+<div id="badges">
+  <a href="https://leetcode.com/daniilboyarinkov/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/BitDittoWit">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/>
+  </a>
+  <a href="https://codepen.io/daniilboyarinkov">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepan Badge"/>
+  </a>
+  <a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12">
+    <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="Codesandbox Badge"/>
+  </a>
+  <a href="https://t.me/BitDittoWit">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 ---
 
