@@ -3,7 +3,7 @@
 <h1 align="center"> Welcome! </h1>
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="320"/>
 
   <div id="badges">
     <a href="https://www.codewars.com/users/BitDittoWit">
