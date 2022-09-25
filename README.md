@@ -47,6 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="40" height="40" alt="Google" />
 </div>
   
+## Stats:
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <!------------------------------------------------------------>
@@ -204,17 +206,6 @@ Are you bored? I can help you with an idea of what you can do
 
 <!------------------------------------------------------------>
 
-#### My first sth web-related
-<p align="right"> 📅 2021y. </p>
-
-<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156020562-090aabe6-fd64-46af-b200-1af4bdd3c034.png">
-
-[HTML basics, Simple CSS styles, Vanilla JavaScript, JS animations, Anime.js (JS animation library)]
-
-## **[Project Link](https://github.com/daniilboyarinkov/Anime.js_first_visualisation)**
-
-<!------------------------------------------------------------>
-
 <h1 align="center"> C# </h1>
 
 ## Ознакомительная практика:
@@ -248,9 +239,6 @@ P.S. 10 console applications, am not a fan of them, thus, no photos.
 <!------------------------------------------------------------>
 
 ## Interested in books? So am I!
-
-
-
 
 <table>
      <tr>
