@@ -4,47 +4,27 @@
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="100"/>
+
+  <div id="badges">
+    <a href="https://www.codewars.com/users/BitDittoWit">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/>
+    </a>
+    <a href="https://leetcode.com/daniilboyarinkov/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+    </a>
+    <a href="https://codepen.io/daniilboyarinkov">
+      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepan Badge"/>
+    </a>
+    <a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12">
+      <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="Codesandbox Badge"/>
+    </a>
+    <a href="https://t.me/BitDittoWit">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+
 </div>
-
-<div id="badges">
-  <a href="https://leetcode.com/daniilboyarinkov/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://www.codewars.com/users/BitDittoWit">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/>
-  </a>
-  <a href="https://codepen.io/daniilboyarinkov">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepan Badge"/>
-  </a>
-  <a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12">
-    <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="Codesandbox Badge"/>
-  </a>
-  <a href="https://t.me/BitDittoWit">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
----
-
-## Pssss...
-
-<table>
-<tr>
-<td>
-<img align="left" width="100" alt="CodeWars" src="https://user-images.githubusercontent.com/89917619/156875703-9dbc3da9-a4d1-48d6-a471-8dd857ec450a.png">
-<a href="https://www.codewars.com/users/BitDittoWit"><b><i>Codewars...</i></b></a>
-</td>
-<td>
-<p>By de way, here's my <b>codewars acc.</b>
-I find solving katas extremely thought-provoking and crucial on the way of becoming a better programmer. ^_^
-</p>
-</td>
-</tr>
-</table>
-
-
-
-
+  
 <!------------------------------------------------------------>
 
 <h1 align="center"> JavaScript </h1>
