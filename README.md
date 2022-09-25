@@ -47,6 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="40" height="40" alt="Google" />
 </div>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!------------------------------------------------------------>
 
 <h1 align="center"> JavaScript </h1>
