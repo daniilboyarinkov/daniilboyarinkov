@@ -24,6 +24,8 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=flat-square" alt="Profile Views"/>
 </div>
+
+[![Codewars banner](https://www.codewars.com/users/BitDittoWit/badges/large)](https://www.codewars.com/users/BitDittoWit)
   
 ## :hammer_and_wrench: Languages and Tools:
 
