@@ -1,9 +1,14 @@
 <!------------------------------------------------------------>
 
-<h1 align="center"> Welcome! </h1>
+<h1 align="center"> 𝕎𝕖𝕝𝕔𝕠𝕞𝕖! 👋</h1>
 
 <div id="header" align="center">
+
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="320"/>
+  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=B00000&center=true&width=500&lines=Hi+there%2C+I'm+Daniel+;I'm+crazy+about+programming;I+enjoy+solving+algorithmic+puzzles;You+can+see+my+profiles+below" alt="Typing SVG" /></a>
+  
+  <a href="https://www.codewars.com/users/BitDittoWit"><img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" /></a>
 
   <div id="badges">
     <a href="https://www.codewars.com/users/BitDittoWit">
@@ -22,10 +27,20 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
+    
+🦉🐾
+  
   <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=flat-square" alt="Profile Views"/>
+  
+  <h2>🐸 Say Hi to Siwi. He's cute, isn't he? </h2>
+  
+  <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx">
+    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" slt="Silly Witty Frog" width="210" />
+  </a>
 </div>
+  
+  
 
-[![Codewars banner](https://www.codewars.com/users/BitDittoWit/badges/large)](https://www.codewars.com/users/BitDittoWit)
   
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -100,7 +115,12 @@
   
 <!------------------------------------------------------------>
 
-<h1 align="center"> JavaScript </h1>
+<div align="center">
+
+<h1>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+𝙅𝙖𝙫𝙖𝙎𝙧𝙞𝙥𝙩 
+</h1>
 
 <p align="center"> Main Web-Projects of mine (sorted by date descending) </p>
 
@@ -282,6 +302,8 @@ Are you bored? I can help you with an idea of what you can do
 P.S. 10 console applications, am not a fan of them, thus, no photos.
 
 ## **[Labs 1st Semester](https://github.com/daniilboyarinkov/Labworks_1semester)**
+
+</div>
 
 <!------------------------------------------------------------>
 
