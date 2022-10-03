@@ -35,12 +35,13 @@
   <h2>🐸 Say Hi to Siwi. He's cute, isn't he? </h2>
   
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx">
-    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" slt="Silly Witty Frog" width="210" />
+    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" />
+  </a>
+  
+  <a href="https://leetcode.com/daniilboyarinkov/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
   </a>
 </div>
-  
-  
-
   
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -238,5 +239,3 @@ Are you bored? I can help you with an idea of what you can do
 
      Thank you all for a bit of attention
 
-
-> I'm just learning...
