@@ -8,7 +8,15 @@
   
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=B00000&center=true&width=500&lines=Hi+there%2C+I'm+Daniel+;I'm+crazy+about+programming;I+enjoy+solving+algorithmic+puzzles;You+can+see+my+profiles+below" alt="Typing SVG" /></a>
   
-  <a href="https://www.codewars.com/users/BitDittoWit"><img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" /></a>
+  <div>
+    <a href="https://leetcode.com/daniilboyarinkov/">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
+    </a>
+  </div>
+  
+  <a href="https://www.codewars.com/users/BitDittoWit">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" />
+  </a>
 
   <div id="badges">
     <a href="https://www.codewars.com/users/BitDittoWit">
@@ -36,10 +44,6 @@
   
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx">
     <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" />
-  </a>
-  
-  <a href="https://leetcode.com/daniilboyarinkov/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
   </a>
 </div>
   
