@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="320"/>
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="320" height="240"/>
   
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=B00000&center=true&width=500&lines=Hi+there%2C+I'm+Daniel+;I'm+crazy+about+programming;I+enjoy+solving+algorithmic+puzzles;You+can+see+my+profiles+below" alt="Typing SVG" /></a>
   
@@ -39,11 +39,12 @@
 🦉🐾
   
   <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=flat-square" alt="Profile Views"/>
-  
+
   <h2>🐸 Say Hi to Siwi. He's cute, isn't he? </h2>
   
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx">
     <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" />
+    <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" />
   </a>
 </div>
   
@@ -52,6 +53,7 @@
 <div>
   <a href="https://learn.javascript.ru/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+  
   </a>&nbsp
   <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
