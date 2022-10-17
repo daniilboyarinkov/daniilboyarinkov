@@ -48,7 +48,7 @@
   </a>
 </div>
   
-## :hammer_and_wrench: Languages and Tools:
+## Languages and Tools:
 
 <div>
   <a href="https://learn.javascript.ru/">
@@ -102,11 +102,11 @@
   </a>
 </div>
   
-## :chart_with_upwards_trend: Stats:
+## :chart_with_upwards_trend: 
   
 [![Refresh Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-## :open_book: Interested in books? So am I!
+## :open_book: Interested in books?
 
 <table>
      <tr>
@@ -124,11 +124,8 @@
 <div align="center">
 
 <h1>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
 𝙅𝙖𝙫𝙖𝙎𝙧𝙞𝙥𝙩 
 </h1>
-
-<p> Main Web-Projects of mine (sorted by date descending) </p>
   
  <b> Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！</b>
 
