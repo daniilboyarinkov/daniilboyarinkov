@@ -102,8 +102,6 @@
   </a>
 </div>
   
-## :chart_with_upwards_trend: 
-  
 [![Refresh Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## :open_book: Interested in books?
