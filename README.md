@@ -43,9 +43,9 @@
   <h2>🐸 Say Hi to Siwi. He's cute, isn't he? </h2>
 
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx">
-    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" />
+    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" />
     <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" />
-    <img src="https://user-images.githubusercontent.com/89917619/196657745-1eba76ff-2000-41d6-9ee9-a817126d3d92.svg" alt="Silly Witty Frog" width="210" />
+    <img src="https://user-images.githubusercontent.com/89917619/196657745-1eba76ff-2000-41d6-9ee9-a817126d3d92.svg" alt="Silly Witty Frog" width="210" height="210" />
   </a>
 </div>
   
