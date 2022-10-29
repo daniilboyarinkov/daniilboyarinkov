@@ -40,7 +40,7 @@
     <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=grey" alt="Profile Views"/>
   </div>
 
-  <h2>🐸 Say "Hi" to Siwi. He's cute, isn't he? </h2>
+  <h2>🐸 Say "Hi" to Siwi. Isn't he cute? </h2>
 
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
     <!-- <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" /> -->
@@ -105,18 +105,22 @@
   
 [![Refresh Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-## :open_book: Interested in books?
+<details>
+  <summary>
+    :open_book: Interested in books?
+  </summary>
 
-<table>
-     <tr>
-          <td>
-          <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
-          </td>
-          <td>
-          <b><i><a href="https://github.com/daniilboyarinkov/Library">My Wee Little Library</a></b></i>
-          </td>
-     </tr>
-</table>
+  <table>
+      <tr>
+            <td>
+            <img align="left" width="100" alt="Books" src="https://user-images.githubusercontent.com/89917619/156875713-b5f68afa-f9b6-4d26-9ab2-1f7c3661de57.png">
+            </td>
+            <td>
+            <b><i><a href="https://github.com/daniilboyarinkov/Library">My Wee Little Library</a></b></i>
+            </td>
+      </tr>
+  </table>
+</details>
   
 <!------------------------------------------------------------>
 
