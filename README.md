@@ -265,6 +265,6 @@ Are you bored? I can help you with an idea of what you can do
 
 <!------------------------------------------------------------>
 
-```
-Have a nice day!
-```
+<a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
+  <img src="https://user-images.githubusercontent.com/89917619/198865311-9e8f28ab-7a03-43a7-88b7-886edc8645d8.png" alt="Have a nice day!" width="100%">
+</a>
