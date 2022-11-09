@@ -42,7 +42,7 @@
     <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=grey" alt="Profile Views"/>
   </div>
 
-  <h2>🐸 Say "Hi" to Siwi. Isn't he cute? </h2>
+  <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>
 
   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
     <!-- <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" /> -->
