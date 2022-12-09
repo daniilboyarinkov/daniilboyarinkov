@@ -51,7 +51,7 @@
   </a>
 </div>
   
-<h2>🦉🐾 Technology stack:</h2> 
+<h2>🦉🐾 Technology stack:</h2>
 
 <div>
   <a href="https://learn.javascript.ru/">
@@ -151,32 +151,32 @@ Character Generator (CG) generates a unique image for you, which you will want t
 
 <!------------------------------------------------------------>
 
-<h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
+<!-- <h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
 
 Great implementation of previous "Skeleton" project.
 
 <a href="https://github.com/daniilboyarinkov/Gwent-Intro-Deck">
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
 </a>
-    
+
 <details>
   <summary>Technologies</summary>
   [React, React-Spring, Use-Gesture, Eslint, Prettier]
-</details>
+</details> -->
 
 <!------------------------------------------------------------>
 
-<h3> 𝘾𝙖𝙧𝙙 𝙨𝙬𝙞𝙥𝙚𝙧 </h3>
+<!-- <h3> 𝘾𝙖𝙧𝙙 𝙨𝙬𝙞𝙥𝙚𝙧 </h3>
 
 Just a skeleton for future projects
 
-<a href="https://github.com/daniilboyarinkov/Card-Swiper">  
+<a href="https://github.com/daniilboyarinkov/Card-Swiper">
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Card-Swiper/raw/master/for_readme/2.jpg">
 </a>
 <details>
   <summary>Technologies</summary>
   [React, React-Spring, Use-Gesture, Eslint, Prettier]
-</details>
+</details> -->
 
 <!------------------------------------------------------------>
 
@@ -197,7 +197,7 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 
 <h3> 𝙒𝙚𝙖𝙧𝘽𝙚𝙨𝙩𝘿𝙧𝙚𝙨𝙨𝙚𝙨 — 𝙊𝙣𝙡𝙞𝙣𝙚 𝙎𝙝𝙤𝙥 </h3>
 
-Implementation of Online Shop built on React. 
+Implementation of Online Shop built on React.
 
  <a href="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop">
   <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg">
@@ -236,22 +236,21 @@ Are you bored? I can help you with an idea of what you can do
 
 <!------------------------------------------------------------>
 
-<h3> 𝐖𝐚𝐫𝐜𝐫𝐚𝐟𝐭 𝟑 𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 </h3>
+<!-- <h3> 𝐖𝐚𝐫𝐜𝐫𝐚𝐟𝐭 𝟑 𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 </h3>
 
-  Node JS Telegram bot 
-  
+  Node JS Telegram bot
+
 <a href="https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot">
 <img width="50%" alt="preview" src="https://user-images.githubusercontent.com/89917619/193508926-68b41335-d1a1-4f1b-9b8f-f3c6462d84c9.png">
 </a>
 <details>
   <summary>Technologies</summary>
   [Node JS, Telegraf JS, Python automization, JSON parsing, .mpq parsing, Adobe Premier Pro rendering]
-</details>
+</details> -->
 
-    
 <!------------------------------------------------------------>
 
-<h3> Cat game projects </h3>
+<!-- <h3> Cat game projects </h3>
 
 <a href="https://github.com/daniilboyarinkov/Cat_game_project">
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/156006470-1e2485b4-a976-42a3-b312-30f7a7322f25.png">
@@ -261,10 +260,6 @@ Are you bored? I can help you with an idea of what you can do
   [Vanilla JavaScript, JavaScript OOP basics, CSS Animations, Kinda basic CSS preloader, Technology of deployment on Github Pages]
 </details>
 
-</div>
+</div> -->
 
 <!------------------------------------------------------------>
-
-<a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
-  <img src="https://user-images.githubusercontent.com/89917619/198865311-9e8f28ab-7a03-43a7-88b7-886edc8645d8.png" alt="Have a nice day!" width="100%">
-</a>
