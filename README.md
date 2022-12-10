@@ -146,7 +146,7 @@ Character Generator (CG) generates a unique image for you, which you will want t
     
 <details>
   <summary>Technologies</summary>
-  [React, React-Spring, React Context, EmailJS, Custom React Hooks, ImgToCanvas, useLocalStorage, EsLint, Prettier, StyleLint, VS code env configs, Yarn PM]
+  [React, Redux, React-Spring, EmailJS, Custom React Hooks, ImgToCanvas, useLocalStorage, EsLint, Prettier, StyleLint, VS code env configs, Yarn PM]
 </details>
 
 <!------------------------------------------------------------>
