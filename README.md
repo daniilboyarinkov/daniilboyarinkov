@@ -141,7 +141,7 @@
 Character Generator (CG) generates a unique image for you, which you will want to implement in your drawings.
 
 <a href="https://github.com/daniilboyarinkov/CharacterGenerator">
-  <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/185416637-599d256a-2978-4c8e-8b1c-3c81e5ef4e52.jpg">
+  <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/CharacterGenerator/blob/master/for_readme/2-1.jpg">
 </a>
     
 <details>
