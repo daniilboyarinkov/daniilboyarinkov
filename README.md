@@ -212,10 +212,11 @@ Implementation of Online Shop built on React.
 
 <h3> 𝘽𝙤𝙧𝙚𝙙𝙤𝙢 </h3>
   
-Are you bored? I can help you with an idea of what you can do
+Are you bored? BG will help you!  
+Who is BG? Tap and find out!
 
 <a href="https://github.com/daniilboyarinkov/bored-api-fetch-react">
-<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/bored-api-fetch-react/blob/master/for_readme/preview.jpg">
+<img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/207121887-0bb6cf84-bc83-4fb8-8a70-4b984df9c549.jpg">
 </a>
 <details>
   <summary>Technologies</summary>
