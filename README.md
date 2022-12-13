@@ -60,13 +60,7 @@
   <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   </a> &nbsp
-  <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  </a> &nbsp
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  </a> &nbsp
-  <a href="https://reactjs.org/">
+   <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="React" />
   </a> &nbsp
   <a href="https://redux.js.org/">
@@ -83,6 +77,12 @@
   <a href="https://www.w3schools.com/css/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
   </a> &nbsp
+    <a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  </a> &nbsp
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  </a> &nbsp 
   <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
   </a> &nbsp
@@ -151,7 +151,7 @@ Character Generator (CG) generates a unique image for you, which you will want t
 
 <!------------------------------------------------------------>
 
-<!-- <h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
+<h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
 
 Great implementation of previous "Skeleton" project.
 
@@ -162,7 +162,7 @@ Great implementation of previous "Skeleton" project.
 <details>
   <summary>Technologies</summary>
   [React, React-Spring, Use-Gesture, Eslint, Prettier]
-</details> -->
+</details>
 
 <!------------------------------------------------------------>
 
