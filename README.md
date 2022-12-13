@@ -69,39 +69,39 @@
   <a href="https://graphql.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
   </a> &nbsp
-  <a href="https://mui.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="40" height="40" alt="MUI" />
+  <a href="https://eslint.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="Eslint" />
   </a> &nbsp
-  <a href="https://www.w3schools.com/html/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />&nbsp
+  <!-- <a href="https://mui.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="40" height="40" alt="MUI" />
+  </a> &nbsp -->
   <a href="https://www.w3schools.com/css/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  </a> &nbsp
-    <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <a href="https://www.w3schools.com/html/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />&nbsp
   </a> &nbsp
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   </a> &nbsp 
-  <a href="https://sass-lang.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
+  <a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a> &nbsp
   <a href="https://git-scm.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> &nbsp
-  <a href="https://www.heroku.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" />
-  </a> &nbsp
+  <!-- <a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
+  </a> &nbsp -->
+  <!-- <a href="https://www.heroku.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" /> -->
+  <!-- </a> &nbsp
   <a href="https://nodejs.org/en/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
-  </a> &nbsp
-  <a href="https://eslint.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="Eslint" />
-  </a> &nbsp
-  <a href="https://www.google.com/">
+  </a> &nbsp -->
+  <!-- <a href="https://www.google.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="40" height="40" alt="Google" />
-  </a>&nbsp
-  <a href="https://expressjs.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  </a>&nbsp -->
+  <!-- <a href="https://expressjs.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="Express" /> -->
   </a>
 </div>
   
@@ -146,7 +146,33 @@ Character Generator (CG) generates a unique image for you, which you will want t
     
 <details>
   <summary>Technologies</summary>
-  [React, Redux, React-Spring, EmailJS, Custom React Hooks, ImgToCanvas, useLocalStorage, EsLint, Prettier, StyleLint, VS code env configs, Yarn PM]
+    <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+    <!-- --- -->
+    <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" /> Redux </a> &nbsp 
+    <!-- --- -->
+    <a href="https://eslint.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" /> Eslint </a> &nbsp
+    <!-- --- -->
+    <a href="https://prettier.io/">
+    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> Prettier </a> &nbsp
+    <!-- --- -->
+    <a href="https://code.visualstudio.com/docs/getstarted/settings">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="40" height="40" alt="" /> VS code env configs </a> &nbsp 
+    <!-- --- -->
+    <a href="https://react-spring.dev/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" /> React Spring </a> &nbsp 
+    <!-- --- -->
+    <a href="https://www.emailjs.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxyHLwTpsmDCPvZ37d2wWoq-rk9Tqt6u500FiKoPVSw&s" width="40" height="40" alt="" /> EmailJS </a> &nbsp 
+    <!-- --- -->
+    <a href="https://yarnpkg.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="40" height="40" alt="" /> Yarn </a> &nbsp 
+    <!-- --- -->
+    <a href="https://stylelint.io/">
+    <img src="https://stylelint.io/img/light.svg" height="40" alt="" /> Stylelint </a> &nbsp
+    <!-- --- -->
 </details>
 
 <!------------------------------------------------------------>
@@ -161,7 +187,22 @@ Great implementation of previous "Skeleton" project.
 
 <details>
   <summary>Technologies</summary>
-  [React, React-Spring, Use-Gesture, Eslint, Prettier]
+    <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+    <!-- --- -->
+    <a href="https://eslint.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" /> Eslint </a> &nbsp
+    <!-- --- -->
+    <a href="https://prettier.io/">
+    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> Prettier </a> &nbsp
+    <!-- --- -->
+    <a href="https://react-spring.dev/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" /> React Spring </a> &nbsp 
+    <!-- --- -->
+    <a href="https://use-gesture.netlify.app/">
+    <img src="https://use-gesture.netlify.app/static/8be59c286e5edb5be43cd0e42addfcd1/logo-nav-dark.png" height="30" alt="" /> UseGesture </a> &nbsp 
+    <!-- --- -->
+    
 </details>
 
 <!------------------------------------------------------------>
@@ -190,7 +231,9 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 
 <details>
   <summary>Technologies</summary>
-  [React custom hooks, Singleton pattern, OOP]
+  <a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+  <!-- --- -->
 </details>
 
 <!------------------------------------------------------------>
@@ -205,7 +248,18 @@ Implementation of Online Shop built on React.
 
 <details>
   <summary>Technologies</summary>
-  [React, React-roter-dom, React-copy-to-clickboard, Express, Python Scraping]
+    <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+    <!-- --- -->
+    <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="" /> Python </a> &nbsp
+    <!-- --- -->
+    <a href="https://reactrouter.com/en/main">
+    <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"  height="40" alt="" /> React Router Dom </a> &nbsp 
+    <!-- --- -->
+    <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="" /> Express </a> &nbsp
+    <!-- --- -->
 </details>
 
 <!------------------------------------------------------------>
@@ -220,7 +274,11 @@ Who is BG? Tap and find out!
 </a>
 <details>
   <summary>Technologies</summary>
-  [React js, fetching API, Theme toggle, React functional components, Common react hooks (useState, useEffect), Fetching API, CSS variables, Media queries]
+    <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+    <!-- --- -->
+    <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /> CSS </a> &nbsp
 </details>
   
 <!------------------------------------------------------------>
@@ -232,7 +290,12 @@ Who is BG? Tap and find out!
 </a>
 <details>
   <summary>Technologies</summary>
-  [React js, Markdown, React functional components, useState hook, ]
+  <a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
+  <!-- --- -->
+  <a href="https://www.markdownguide.org/basic-syntax/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width="40" height="40" alt="" /> Markdown </a> &nbsp 
+  <!-- --- -->
 </details>
 
 <!------------------------------------------------------------>
