@@ -286,7 +286,7 @@ Who is BG? Tap and find out!
 <h3> 𝙈𝙖𝙧𝙠𝙪𝙥 𝙚𝙙𝙞𝙩𝙤𝙧 </h3>
 
 <a href="https://github.com/daniilboyarinkov/markdown-learning-editor">
-<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/markdown-learning-editor/blob/master/public/imgs/1.jpg">
+<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/markdown-learning-editor/raw/master/public/imgs/1-1.jpg">
 </a>
 <details>
   <summary>Technologies</summary>
