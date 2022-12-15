@@ -53,7 +53,7 @@
   
 <h2>🦉🐾 Technology stack:</h2>
 
-<div>
+<div align="center">
   <a href="https://learn.javascript.ru/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
   </a> &nbsp
@@ -87,8 +87,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a> &nbsp
   <a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> &nbsp
-  <!-- <a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> <!-- &nbsp
+   <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
   </a> &nbsp -->
   <!-- <a href="https://www.heroku.com/">
@@ -101,11 +101,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="40" height="40" alt="Google" />
   </a>&nbsp -->
   <!-- <a href="https://expressjs.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="Express" /> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  </a> -->
+  
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark"/>
   </a>
 </div>
   
-[![Refresh Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilboyarinkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
 <details>
   <summary>
@@ -128,17 +133,17 @@
 
 <div align="center">
 
-<h1>
+<!-- <h1>
 𝙅𝙖𝙫𝙖𝙎𝙧𝙞𝙥𝙩 
-</h1>
+</h1> -->
   
- <b> Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！</b>
+ <h2> Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！</h2>
 
 <!------------------------------------------------------------>
 
 <h3> 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 </h3>
 
-Character Generator (CG) generates a unique image for you, which you will want to implement in your drawings.
+CG generates a unique character for you.  
 
 <a href="https://github.com/daniilboyarinkov/CharacterGenerator">
   <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/CharacterGenerator/blob/master/for_readme/2-1.jpg">
@@ -178,8 +183,6 @@ Character Generator (CG) generates a unique image for you, which you will want t
 <!------------------------------------------------------------>
 
 <h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
-
-Great implementation of previous "Skeleton" project.
 
 <a href="https://github.com/daniilboyarinkov/Gwent-Intro-Deck">
 <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
@@ -223,8 +226,6 @@ Just a skeleton for future projects
 
 <h3> 𝟭𝟱 𝗽𝘂𝘇𝘇𝗹𝗲 𝗴𝗮𝗺𝗲 </h3>
 
-I enjoy playing 15, thus I've decided to create this game and learn some new stuff.
-
 <a href="https://github.com/daniilboyarinkov/15PuzzleGame">
   <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg">
 </a>
@@ -239,8 +240,6 @@ I enjoy playing 15, thus I've decided to create this game and learn some new stu
 <!------------------------------------------------------------>
 
 <h3> 𝙒𝙚𝙖𝙧𝘽𝙚𝙨𝙩𝘿𝙧𝙚𝙨𝙨𝙚𝙨 — 𝙊𝙣𝙡𝙞𝙣𝙚 𝙎𝙝𝙤𝙥 </h3>
-
-Implementation of Online Shop built on React.
 
  <a href="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop">
   <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg">
@@ -266,8 +265,7 @@ Implementation of Online Shop built on React.
 
 <h3> 𝘽𝙤𝙧𝙚𝙙𝙤𝙢 </h3>
   
-Are you bored? BG will help you!  
-Who is BG? Tap and find out!
+Are you bored? BG will help you!
 
 <a href="https://github.com/daniilboyarinkov/bored-api-fetch-react">
 <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/207121887-0bb6cf84-bc83-4fb8-8a70-4b984df9c549.jpg">
