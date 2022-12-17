@@ -229,7 +229,7 @@ Just a skeleton for future projects
 <h3> 𝟭𝟱 𝗽𝘂𝘇𝘇𝗹𝗲 𝗴𝗮𝗺𝗲 </h3>
 
 <a href="https://github.com/daniilboyarinkov/15PuzzleGame">
-  <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/15PuzzleGame/blob/master/for_readme/2.jpg">
+  <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/208254676-3fcbf6a9-b89c-4d89-be7a-358301df13e0.jpg">
 </a>
 
 <details>
@@ -237,6 +237,9 @@ Just a skeleton for future projects
   <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
   <!-- --- -->
+  <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" /> Redux </a> &nbsp 
+    <!-- --- -->
 </details>
 
 <!------------------------------------------------------------>
