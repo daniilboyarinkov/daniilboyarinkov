@@ -253,18 +253,14 @@ Just a skeleton for future projects
 <details>
   <summary>Technologies</summary>
     <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a> &nbsp 
-    <!-- --- -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> React </a>
     <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="" /> Python </a> &nbsp
-    <!-- --- -->
     <a href="https://reactrouter.com/en/main">
     <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"  height="40" alt="" /> React Router Dom </a> &nbsp 
-    <!-- --- -->
     <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="" /> Express </a> &nbsp
-    <!-- --- -->
-</details> -->
+</details>  -->
 
 <!------------------------------------------------------------>
 
