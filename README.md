@@ -244,7 +244,7 @@ Just a skeleton for future projects
 
 <!------------------------------------------------------------>
 
-<h3> 𝙒𝙚𝙖𝙧𝘽𝙚𝙨𝙩𝘿𝙧𝙚𝙨𝙨𝙚𝙨 — 𝙊𝙣𝙡𝙞𝙣𝙚 𝙎𝙝𝙤𝙥 </h3>
+<!-- <h3> 𝙒𝙚𝙖𝙧𝘽𝙚𝙨𝙩𝘿𝙧𝙚𝙨𝙨𝙚𝙨 </h3>
 
  <a href="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop">
   <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/WearBestDresses__Online_Shop/blob/master/client/for_readme/2-1.jpg">
@@ -264,7 +264,7 @@ Just a skeleton for future projects
     <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="" /> Express </a> &nbsp
     <!-- --- -->
-</details>
+</details> -->
 
 <!------------------------------------------------------------>
 
