@@ -60,6 +60,8 @@
   <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   </a> &nbsp
+  <a href="https://tailwindcss.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" /> &nbsp
    <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="React" />
   </a> &nbsp
@@ -83,14 +85,16 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   </a> &nbsp 
-  <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a> &nbsp
   <a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> <!-- &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> &nbsp
    <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
-  </a> &nbsp -->
+  </a> &nbsp
+    <a href="https://vitejs.dev/">
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="vite" />
+  </a> &nbsp    
   <!-- <a href="https://www.heroku.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" /> -->
   <!-- </a> &nbsp
@@ -142,6 +146,67 @@
 Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！
 
 <!------------------------------------------------------------>
+  
+<h3> Demo Shop </h3>  
+
+<a href="https://github.com/daniilboyarinkov/demo-shop">
+  <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/213543101-2d16d6c1-44f3-44b7-95d8-5aee333fcedd.png">
+</a>
+    
+<details>
+  <summary>Technologies</summary>
+  <a href="https://www.typescriptlang.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
+    width="40"
+    height="40"
+    alt="TypeScript"
+  />
+</a>
+<a href="https://reactjs.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+    width="40"
+    height="40"
+    alt="React"
+  />
+</a>
+<a href="https://tailwindcss.com/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"
+    width="40"
+    height="40"
+    alt="TailwindCSS"
+  />
+</a>
+<a href="https://redux.js.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
+    width="40"
+    height="40"
+    alt="Redux"
+  />
+</a>
+<a href="https://eslint.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"
+    width="40"
+    height="40"
+    alt="Eslint"
+  />
+</a>
+<a href="https://sass-lang.com/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"
+    width="40"
+    height="40"
+    alt="SASS"
+  />
+</a>
+<a href="https://vitejs.dev/">
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="vite" />
+</a>  
+ </details>
 
 <h3> 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 </h3>
 
