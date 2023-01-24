@@ -1,13 +1,36 @@
 <!------------------------------------------------------------>
 
-<h1>
+<!-- <h1>
 <img width="100%" src="https://user-images.githubusercontent.com/89917619/198813871-1c20f475-2e64-460d-9d69-121ceb041cca.png" alt="𝕎𝕖𝕝𝕔𝕠𝕞𝕖!">
-</h1>
+</h1> -->
   
 <div id="header" align="center">
+  
+  <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>  
+  <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
+    <!-- <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" /> -->
+    <!-- <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" /> -->
+    <img src="https://user-images.githubusercontent.com/89917619/196657745-1eba76ff-2000-41d6-9ee9-a817126d3d92.svg" alt="Silly Witty Frog" width="210" height="210" />
+  </a>
+  
+  <div>
+    <a href="https://git.io/typing-svg" target="blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6667AB&center=true&vCenter=true&width=435&lines=Welcome+folks!;I'm+Daniel;Glad+to+see+you+here;Have+a+nice+day!" alt="Typing SVG" />
+    </a>
+  </div>
 
-  <!-- <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pp1ih4qpxq7qhc2l0xvfc7stko94vv44tcrr8dxc&rid=giphy.gif&ct=g" width="320" height="240"/> -->
+  <div>
+    <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
+      <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" />
+    </a> 
+   </div>
 
+  <div>
+    <a href="https://leetcode.com/daniilboyarinkov/" target="blank">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
+    </a>
+  </div>
+  
   <div id="badges">
     <!-- <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/>
@@ -25,30 +48,10 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a> -->
   </div>
-
-  <div>
-    <a href="https://leetcode.com/daniilboyarinkov/" target="blank">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
-    </a>
-  </div>
   
-  <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
-    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" />
-  </a>  
-  
-  <a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6667AB&center=true&vCenter=true&width=435&lines=Welcome+folks!;I'm+Daniel;Glad+to+see+you+here;Have+a+nice+day!" alt="Typing SVG" /></a>
-
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=grey" alt="Profile Views"/>
   </div>
-
-  <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>
-
-  <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
-    <!-- <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" /> -->
-    <!-- <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" /> -->
-    <img src="https://user-images.githubusercontent.com/89917619/196657745-1eba76ff-2000-41d6-9ee9-a817126d3d92.svg" alt="Silly Witty Frog" width="210" height="210" />
-  </a>
 </div>
   
 <h2>🦉🐾 Technology stack:</h2>
