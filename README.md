@@ -57,6 +57,12 @@
 <h2>🦉🐾 Technology stack:</h2>
 
 <div align="center">
+   <a href="https://flutter.dev/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  </a> &nbsp
+   <a href="https://dart.dev/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  </a> &nbsp
   <a href="https://learn.javascript.ru/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
   </a> &nbsp
