@@ -1,9 +1,14 @@
 <!------------------------------------------------------------>
+<!-- Links -->
+<!-- Icons -->
+<!-- Images -->
+
+<!------------------------------------------------------------>
 
 <!-- <h1>
 <img width="100%" src="https://user-images.githubusercontent.com/89917619/198813871-1c20f475-2e64-460d-9d69-121ceb041cca.png" alt="𝕎𝕖𝕝𝕔𝕠𝕞𝕖!">
 </h1> -->
-  
+
 <div id="header" align="center">
   
   <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>  
@@ -58,10 +63,10 @@
 
 <div align="center">
    <a href="https://flutter.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
   </a> &nbsp
    <a href="https://dart.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
   </a> &nbsp
   <a href="https://learn.javascript.ru/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
@@ -147,16 +152,16 @@
 <div align="center">
 
 <!-- <h1>
-𝙅𝙖𝙫𝙖𝙎𝙧𝙞𝙥𝙩 
+𝙅𝙖𝙫𝙖𝙎𝙧𝙞𝙥𝙩
 </h1> -->
-  
+
  <h2> Projects </h2>
 
 Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！
 
 <!------------------------------------------------------------>
-  
-<h3> Demo Shop </h3>  
+
+<h3> Demo Shop </h3>
 
 <a href="https://github.com/daniilboyarinkov/demo-shop">
   <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/213543101-2d16d6c1-44f3-44b7-95d8-5aee333fcedd.png">
@@ -219,10 +224,10 @@
 
 <h3> 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 </h3>
 
-CG generates a unique character for you.  
+CG generates a unique character for you.
 
 <a href="https://github.com/daniilboyarinkov/CharacterGenerator">
-  <img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/CharacterGenerator/blob/master/for_readme/2-1.jpg">
+  <img width="100%" alt="preview" src="https://raw.githubusercontent.com/daniilboyarinkov/CharacterGenerator/master/for_readme/2-1.jpg">
 </a>
     
 <details>
@@ -261,7 +266,7 @@ CG generates a unique character for you.
 <h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
 
 <a href="https://github.com/daniilboyarinkov/Gwent-Intro-Deck">
-<img width="100%" alt="preview" src="https://github.com/daniilboyarinkov/Gwent-Intro-Deck/blob/master/for_readme/3.jpg">
+<img width="100%" alt="preview" src="https://raw.githubusercontent.com/daniilboyarinkov/Gwent-Intro-Deck/master/for_readme/3.jpg">
 </a>
 
 <details>
@@ -331,7 +336,7 @@ Just a skeleton for future projects
     <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="" /> Python </a> &nbsp
     <a href="https://reactrouter.com/en/main">
-    <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"  height="40" alt="" /> React Router Dom </a> &nbsp 
+    <img src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"  height="40" alt="" /> React Router Dom </a> &nbsp
     <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="40" height="40" alt="" /> Express </a> &nbsp
 </details>  -->
@@ -400,3 +405,9 @@ Are you bored? BG will help you!
 </div> -->
 
 <!------------------------------------------------------------>
+
+<!-- <div align="left">
+  <a target="_blank" href="https://daniilboyarinkov.github.io/resume/">
+    <img width="40" height="40" src="https://www.reshot.com/preview-assets/icons/L4CTDEMPY6/resume-L4CTDEMPY6.svg" alt="Resume"/> Resume
+  </a>
+</div> -->
