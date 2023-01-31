@@ -130,7 +130,7 @@
   
 </div>
   
-<details>
+<!-- <details>
   <summary>
     :open_book: Interested in books?
   </summary>
@@ -145,7 +145,7 @@
             </td>
       </tr>
   </table>
-</details>
+</details> -->
   
 <!------------------------------------------------------------>
 
@@ -160,6 +160,70 @@
 Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！
 
 <!------------------------------------------------------------>
+
+  <h3> Currenncy Converter </h3>
+  
+  CC converts corrency
+
+  <a href="https://github.com/daniilboyarinkov/kozhindev-test-exchanges">
+    <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/215783215-31b61e5a-f059-4850-87ad-efa686700bfb.png">
+  </a>
+  
+  <details>
+    <summary>Technologies</summary>
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
+    width="40"
+    height="40"
+    alt="TypeScript"
+  />
+</a>
+<a href="https://reactjs.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
+    width="40"
+    height="40"
+    alt="React"
+  />
+</a>
+<a href="https://tailwindcss.com/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"
+    width="40"
+    height="40"
+    alt="TailwindCSS"
+  />
+</a>
+<a href="https://redux.js.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
+    width="40"
+    height="40"
+    alt="Redux"
+  />
+</a>
+<a href="https://eslint.org/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"
+    width="40"
+    height="40"
+    alt="Eslint"
+  />
+  </a>
+  <a href="https://prettier.io/">
+    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" />
+  </a>
+    <a href="https://sass-lang.com/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"
+    width="40"
+    height="40"
+    alt="SASS"
+  />
+</a>
+  </details>
+  
+  <!------------------------------------------------------------>
 
 <h3> Demo Shop </h3>
 
