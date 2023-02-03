@@ -166,7 +166,7 @@
   CC converts corrency
 
   <a href="https://github.com/daniilboyarinkov/kozhindev-test-exchanges">
-    <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/216559929-8a83c36b-7dbc-4f73-b4ee-664022acac13.png">
+    <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/216560389-93b459db-ca23-4d2c-90ed-15c39a164f01.png">
   </a>
   
   <details>
