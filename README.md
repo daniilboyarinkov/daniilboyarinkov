@@ -11,18 +11,20 @@
 
 <div id="header" align="center">
   
-  <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>  
-  <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
-    <!-- <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" /> -->
-    <!-- <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" /> -->
+  <img src="https://user-images.githubusercontent.com/89917619/222952978-6aff483c-d006-48fa-9b76-159bd37b2d3d.png" alt="preview" width="420px" />
+
+<!--   <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>   -->
+<!--   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
+    <img src="https://user-images.githubusercontent.com/89917619/193503934-2eddc2a0-2bdb-4143-b94b-1301c2d0c963.svg" alt="Silly Witty Frog" width="210" height="210" />
+    <img src="https://user-images.githubusercontent.com/89917619/195903914-739e33fe-0301-48de-848e-080fa1d5195e.svg" alt="Silly Witty Frog" width="100" height="100" />
     <img src="https://user-images.githubusercontent.com/89917619/196657745-1eba76ff-2000-41d6-9ee9-a817126d3d92.svg" alt="Silly Witty Frog" width="210" height="210" />
-  </a>
+  </a> -->
   
-  <div>
+<!--   <div>
     <a href="https://git.io/typing-svg" target="blank">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6667AB&center=true&vCenter=true&width=435&lines=Welcome+folks!;I'm+Daniel;Glad+to+see+you+here;Have+a+nice+day!" alt="Typing SVG" />
     </a>
-  </div>
+  </div> -->
 
   <div>
     <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
@@ -59,7 +61,7 @@
   </div>
 </div>
   
-<h2>🦉🐾 Technology stack:</h2>
+<h2>Technologies:</h2>
 
 <div align="center">
    <a href="https://flutter.dev/">
