@@ -11,7 +11,7 @@
 
 <div id="header" align="center">
   
-  <img src="https://user-images.githubusercontent.com/89917619/222952978-6aff483c-d006-48fa-9b76-159bd37b2d3d.png" alt="preview" width="420px" />
+<!--   <img src="https://user-images.githubusercontent.com/89917619/222952978-6aff483c-d006-48fa-9b76-159bd37b2d3d.png" alt="preview" width="420px" /> -->
 
 <!--   <h2>🐸 Say <em> Hi </em> to Siwi. Isn't he cute? </h2>   -->
 <!--   <a href="https://codepen.io/daniilboyarinkov/pen/abGqLpx" target="blank">
