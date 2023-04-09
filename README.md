@@ -1,33 +1,4 @@
-<!--  Profile views  -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile Views"/>
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <div id="header" align="center">
-<!--  CodeWars  -->
-  <div>
-    <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
-      <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="Codewars banner" />
-    </a> 
-   </div>
-
-<!--  Leetcode  -->
-  <div>
-    <a href="https://leetcode.com/daniilboyarinkov/" target="blank">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=daniilboyarinkov&theme=dark" alt="Leetcode Rate" width="420" />
-    </a>
-  </div>
   
   <div id="badges">
     <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
@@ -51,6 +22,11 @@
       <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </div>
+  
+  <!--  Profile views  -->
+ <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile Views"/>
+  </div>
 </div>
 
 <br/>
@@ -58,67 +34,89 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-  
-<h2>Technologies:</h2>
+<h3>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚘𝚗:</h3>
 
 <div align="center">
-   <a href="https://flutter.dev/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-  </a> &nbsp
-   <a href="https://dart.dev/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
-  </a> &nbsp
-  <a href="https://learn.javascript.ru/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
-  </a> &nbsp
   <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a> &nbsp
-  <a href="https://tailwindcss.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" /> &nbsp
-   <a href="https://reactjs.org/">
+  </a>
+  <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  </a> &nbsp
+  </a> 
   <a href="https://redux.js.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-  </a> &nbsp
-  <a href="https://graphql.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
-  </a> &nbsp
+  </a>
+  <a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
+  </a> 
+</div>
+  
+<details align="right">
+  <summary>𝙰𝚕𝚜𝚘 𝚐𝚘𝚘𝚍 𝚊𝚝...</summary>
+  <a href="https://learn.javascript.ru/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+  </a> 
   <a href="https://eslint.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="Eslint" />
-  </a> &nbsp
-  <!-- <a href="https://mui.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width="40" height="40" alt="MUI" />
-  </a> &nbsp -->
+  </a> 
+  <a href="https://tailwindcss.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" /> 
+  </a> 
   <a href="https://www.w3schools.com/css/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
   <a href="https://www.w3schools.com/html/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />&nbsp
-  </a> &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  </a>
+  <a href="https://flutter.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  </a> 
+  <a href="https://dart.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  </a> &nbsp 
+  </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  </a> &nbsp
+  </a>
   <a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" /></a> &nbsp
-   <a href="https://sass-lang.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
-  </a> &nbsp
-    <a href="https://vitejs.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40" alt="git" />
+  </a>
+  <a href="https://vitejs.dev/">
   <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="vite" />
-  </a> &nbsp
+  </a> 
+  <a href="https://graphql.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
+  </a> 
+</details>  
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!--  CodeWars  -->
+<div align="right">
+  <a href="https://www.codewars.com/users/BitDittoWit" target="blank">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/small" alt="Codewars banner" />
+  </a> 
+ </div>
+
+<!--  Leetcode  -->
+<div  align="left">
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="Leetcode" width="400" />
+  </a>
 </div>
   
   
-  <br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -132,19 +130,16 @@
 <!------------------------------------------------------------>
 
 <div align="center">
-
- <h2> Projects </h2>
-
-Ｔａｐ　ｏｎ　ｐｉｃｔｕｒｅｓ！
+ <h2> 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h2>
 
 <!------------------------------------------------------------>
   
 <br/>
 <br/>
 
-  <h3> Currenncy Converter </h3>
+  <h3> 𝙲𝚞𝚛𝚛𝚎𝚗𝚗𝚌𝚢 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛 </h3>
   
-  CC converts corrency
+  𝙲𝙲 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚜 𝚌𝚘𝚛𝚛𝚎𝚗𝚌𝚢
 
   <a href="https://github.com/daniilboyarinkov/kozhindev-test-exchanges">
     <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/216560389-93b459db-ca23-4d2c-90ed-15c39a164f01.png">
@@ -212,7 +207,7 @@
 <br/>
 <br/>
 
-<h3> Demo Shop </h3>
+<h3> 𝙳𝚎𝚖𝚘 𝚂𝚑𝚘𝚙 </h3>
 
 <a href="https://github.com/daniilboyarinkov/demo-shop">
   <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/213543101-2d16d6c1-44f3-44b7-95d8-5aee333fcedd.png">
@@ -280,9 +275,9 @@
 <br/>
 <br/>
 
-<h3> 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 </h3>
+<h3> 𝙲𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛 </h3>
 
-CG generates a unique character for you.
+𝙲𝙶 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚜 𝚊 𝚞𝚗𝚒𝚚𝚞𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝚏𝚘𝚛 𝚢𝚘𝚞.
 
 <a href="https://github.com/daniilboyarinkov/CharacterGenerator">
   <img width="100%" alt="preview" src="https://raw.githubusercontent.com/daniilboyarinkov/CharacterGenerator/master/for_readme/2-1.jpg">
@@ -291,31 +286,31 @@ CG generates a unique character for you.
 <details>
   <summary>Technologies</summary>
     <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
     <a href="https://redux.js.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
     <a href="https://eslint.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" />  </a> &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
     <a href="https://prettier.io/">
-    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> </a> &nbsp
+    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> </a> 
     <!-- --- -->
     <a href="https://code.visualstudio.com/docs/getstarted/settings">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="40" height="40" alt="" /> </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="40" height="40" alt="" /> </a>
     <!-- --- -->
     <a href="https://react-spring.dev/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
     <a href="https://www.emailjs.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxyHLwTpsmDCPvZ37d2wWoq-rk9Tqt6u500FiKoPVSw&s" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxyHLwTpsmDCPvZ37d2wWoq-rk9Tqt6u500FiKoPVSw&s" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
     <a href="https://yarnpkg.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="40" height="40" alt="" />  </a>
     <!-- --- -->
     <a href="https://stylelint.io/">
-    <img src="https://stylelint.io/img/light.svg" height="40" alt="" />  </a> &nbsp
+    <img src="https://stylelint.io/img/light.svg" height="40" alt="" />  </a>
     <!-- --- -->
 </details>
 
@@ -328,7 +323,7 @@ CG generates a unique character for you.
 <br/>
 <br/>
 
-<h3> 𝙂𝙬𝙚𝙣𝙩 𝙄𝙣𝙩𝙧𝙤 𝘿𝙚𝙘𝙠 </h3>
+<h3> 𝙶𝚠𝚎𝚗𝚝 𝙳𝚎𝚌𝚔 </h3>
 
 <a href="https://github.com/daniilboyarinkov/Gwent-Intro-Deck">
 <img width="100%" alt="preview" src="https://raw.githubusercontent.com/daniilboyarinkov/Gwent-Intro-Deck/master/for_readme/3.jpg">
@@ -337,19 +332,19 @@ CG generates a unique character for you.
 <details>
   <summary>Technologies</summary>
     <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" /> </a> 
     <!-- --- -->
     <a href="https://eslint.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" /> </a> &nbsp
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="40" height="40" alt="" /> </a> 
     <!-- --- -->
     <a href="https://prettier.io/">
-    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> </a> &nbsp
+    <img src="https://prettier.io/icon.png" width="40" height="40" alt="" /> </a> 
     <!-- --- -->
     <a href="https://react-spring.dev/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" /> </a> &nbsp 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVLqoQ3gJtuOOxW161CwfpSnM0ncE8YPiDUwE8xFWSA&s" width="40" height="40" alt="" /> </a> 
     <!-- --- -->
     <a href="https://use-gesture.netlify.app/">
-    <img src="https://use-gesture.netlify.app/static/8be59c286e5edb5be43cd0e42addfcd1/logo-nav-dark.png" height="30" alt="" />  </a> &nbsp 
+    <img src="https://use-gesture.netlify.app/static/8be59c286e5edb5be43cd0e42addfcd1/logo-nav-dark.png" height="30" alt="" />  </a>  
     <!-- --- -->
     
 </details>
@@ -365,7 +360,7 @@ CG generates a unique character for you.
 
 <!------------------------------------------------------------>
 
-<h3> 𝟭𝟱 𝗽𝘂𝘇𝘇𝗹𝗲 𝗴𝗮𝗺𝗲 </h3>
+<h3> 𝟷𝟻 </h3>
 
 <a href="https://github.com/daniilboyarinkov/15PuzzleGame">
   <img width="100%" alt="preview" src="https://user-images.githubusercontent.com/89917619/208254676-3fcbf6a9-b89c-4d89-be7a-358301df13e0.jpg">
@@ -374,10 +369,10 @@ CG generates a unique character for you.
 <details>
   <summary>Technologies</summary>
   <a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" />  </a> &nbsp 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40" alt="" />  </a>  
   <!-- --- -->
   <a href="https://redux.js.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" />  </a> &nbsp 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
 </details>
 
