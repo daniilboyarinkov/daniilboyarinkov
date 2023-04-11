@@ -115,7 +115,6 @@
   </a>
 </div>
   
-  
 <br/>
 <br/>
 <br/>
@@ -130,7 +129,12 @@
 <!------------------------------------------------------------>
 
 <div align="center">
- <h2> 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h2>
+  <details>
+    <summary>
+      <h2>
+        𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+      </h2>
+    </summary>
 
 <!------------------------------------------------------------>
   
@@ -346,15 +350,16 @@
     <a href="https://use-gesture.netlify.app/">
     <img src="https://use-gesture.netlify.app/static/8be59c286e5edb5be43cd0e42addfcd1/logo-nav-dark.png" height="30" alt="" />  </a>  
     <!-- --- -->
+  
+<br/>
+<br/>
+<br/>
     
 </details>
 
 <!------------------------------------------------------------>
 
-  
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 
@@ -375,6 +380,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="40" height="40" alt="" />  </a> 
     <!-- --- -->
 </details>
+  
+  </details>
 
 <!------------------------------------------------------------>
 
