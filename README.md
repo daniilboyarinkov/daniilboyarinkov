@@ -38,18 +38,15 @@
 <h3>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚘𝚗:</h3>
 
 <div align="center">
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" alt="TypeScript"/>
-  </a>
   <a href="https://reactjs.org/">
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="40" height="40" alt="React" />
   </a> 
   <a href="https://redux.js.org/">
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="40" height="40" alt="Redux" />
   </a>
-  <a href="https://sass-lang.com/">
-  <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="40" height="40" alt="SASS" />
-  </a> 
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="40" height="40" alt="TypeScript"/>
+  </a>
 </div>
   
 <details align="right">
@@ -65,6 +62,9 @@
   </a> 
   <a href="https://getbootstrap.com/">
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="40" height="40" alt="Bootstrap" /> 
+  </a> 
+  <a href="https://sass-lang.com/">
+  <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="40" height="40" alt="SASS" />
   </a> 
   <a href="https://www.w3schools.com/css/">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="CSS" />
