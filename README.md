@@ -570,7 +570,6 @@
   <img
     src="https://use-gesture.netlify.app/static/8be59c286e5edb5be43cd0e42addfcd1/logo-nav-dark.png"
     alt="useGesture"
-    width="40"
     height="40"
   />
 </a>
