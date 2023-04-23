@@ -226,24 +226,24 @@
 <br/>
 
 
-<div align="right">
-  
-<!--    CodeWars    -->
-<a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-  <img src="https://www.codewars.com/users/BitDittoWit/badges/small" alt="CodeWars" />
-</a>
+<details>
+  <summary>
+    <h3>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐:</h3>
+  </summary>
+  <div align="right"> 
+  <!--    CodeWars    -->
+  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/small" alt="CodeWars" />
+  </a>
+  </div>
 
- </div>
-
-<div align="left">
-  
-<!--    LeetCode    -->
-<a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" />
-</a>
-
-</div>
-  
+  <div align="left"> 
+  <!--    LeetCode    -->
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" />
+  </a>
+  </div>
+</details>
 
 <br/>
 <br/>
