@@ -1,4 +1,17 @@
+<div align="right">
+  <!--    Profile views    -->
+  <a href="https://github.com/daniilboyarinkov" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile views" />
+  </a>
+</div>
 
+<div align="center"> 
+  <!--    CodeWars    -->
+  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
+  </a>
+</div>
+  
 <div id="header" align="center">
   
   <div id="badges">
@@ -33,15 +46,14 @@
 </a>
 
   </div>
-  
-  <div align="right">
-    
-<!--    Profile views    -->
-<a href="https://github.com/daniilboyarinkov" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile views" />
-</a>
 
-  </div>
+<div align="center"> 
+  <!--    LeetCode    -->
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" />
+  </a>
+</div>
+
 </div>
 
 
@@ -211,39 +223,6 @@
 
 </details>  
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<details>
-  <summary>
-    <h3>𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐:</h3>
-  </summary>
-  <div align="right"> 
-  <!--    CodeWars    -->
-  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-    <img src="https://www.codewars.com/users/BitDittoWit/badges/small" alt="CodeWars" />
-  </a>
-  </div>
-
-  <div align="left"> 
-  <!--    LeetCode    -->
-  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" />
-  </a>
-  </div>
-</details>
 
 <br/>
 <br/>
