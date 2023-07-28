@@ -47,19 +47,9 @@
 
   </div>
 
-<div align="center"> 
-  <!--    LeetCode    -->
-  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-<!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
-  <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
-  </a>
-</div>
-
 </div>
 
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -228,6 +218,15 @@
 <br/>
 <br/>
 <br/>
+
+<div align="center"> 
+  <!--    LeetCode    -->
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+<!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
+  <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
+  </a>
+</div>
+
 <br/>
 <br/>
 
