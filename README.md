@@ -214,12 +214,19 @@
 
 </details>  
 
-
-<br/>
-<br/>
-<br/>
-
 <div align="center"> 
+  <br/>
+<br/>
+<br/>
+
+<h1><a href="https://daniilboyarinkov.github.io/updated-resume/">
+  𝖗𝖊𝖘𝖚𝖒𝖊
+</a></h1>
+
+<br/>
+<br/>
+<br/>
+
   <!--    LeetCode    -->
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
 <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
