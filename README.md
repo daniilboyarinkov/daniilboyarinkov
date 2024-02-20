@@ -1,10 +1,3 @@
-<div align="right">
-  <!--    Profile views    -->
-  <a href="https://github.com/daniilboyarinkov" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile views" />
-  </a>
-</div>
-
 <h3 align="left">Frontend Developer</h3>
 <div align="left">
   
@@ -83,6 +76,14 @@
   <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
   </a>
 </div>
+
+<div align="right">
+  <!--    Profile views    -->
+  <a href="https://github.com/daniilboyarinkov" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile views" />
+  </a>
+</div>
+
 
 <br/>
 <br/>
