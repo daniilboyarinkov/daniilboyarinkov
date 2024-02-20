@@ -5,59 +5,8 @@
   </a>
 </div>
 
-<div align="center">
-  <!--    LeetCode    -->
-  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-
-  <!--    CodeWars    -->
-  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars" />
-  </a>
-
-</div>
-
-<div align="center"> 
-  <!--    CodeWars    -->
-  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
-  </a>
-</div>
-  
-<div id="header" align="center">
-  
-  <div id="badges">
-
-<!--    CodePen    -->
-<a href="https://codepen.io/daniilboyarinkov" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-</a>
-
-
-<!--    CodeSandbox    -->
-<a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12" target="_blank">
-  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
-</a>
-
-<!--    Telegram    -->
-<a href="https://t.me/BitDittoWit" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-  </div>
-
-</div>
-
-
-<br/>
-<br/>
-<br/>
-
-
-<h3 align="center">Frontend Developer</h3>
-
-<div align="center">
+<h3 align="left">Frontend Developer</h3>
+<div align="left">
   
 <a href="https://reactjs.org/">
   <img
@@ -90,20 +39,52 @@
 
 </div>
 
-<div align="center"> 
-  <br/>
-<br/>
-<br/>
+<div id="header" align="right">
+  
+  <div id="badges">
 
-<h1><a href="https://daniilboyarinkov.github.io/updated-resume/">
-  Resume
-</a></h1>
+<!--    CodePen    -->
+<a href="https://codepen.io/daniilboyarinkov" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+</a>
+  </div>
 
-<br/>
-<br/>
-<br/>
 
+<div align="right">
+<!--    CodeSandbox    -->
+<a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12" target="_blank">
+  <img src="https://img.shields.io/badge/Codebox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+</a>
+  </div>
+
+</div>
+
+<div align="right">
   <!--    LeetCode    -->
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+  
+<div align="right">
+  <!--    Telegram    -->
+  <a href="https://t.me/BitDittoWit" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center"> 
+  <!--    CodeWars    -->
+  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
+  </a>
+
+<br/>
+
+<!--    LeetCode    -->
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
 <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
   <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
@@ -112,6 +93,15 @@
 
 <br/>
 <br/>
+<br/>
 
+
+<div align="center">
+
+<h1><a href="https://daniilboyarinkov.github.io/updated-resume/">
+  Resume
+</a></h1>
+
+</div>
   
 <!------------------------------------------------------------>
