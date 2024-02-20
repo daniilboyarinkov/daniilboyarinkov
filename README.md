@@ -39,37 +39,30 @@
 
 </div>
 
-<div id="header" align="right">
-  
+<div id="header" align="left">
+  <br/>
   <div id="badges">
 
 <!--    CodePen    -->
 <a href="https://codepen.io/daniilboyarinkov" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  <img src="https://img.shields.io/badge/Codepen⠀-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
 </a>
-  </div>
-
-
-<div align="right">
-<!--    CodeSandbox    -->
-<a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12" target="_blank">
-  <img src="https://img.shields.io/badge/Codebox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+ <!--    Telegram    -->
+<a href="https://t.me/BitDittoWit" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram⠀-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
   </div>
 
 </div>
 
-<div align="right">
+<div align="left">
+  <!--    CodeSandbox    -->
+<a href="https://codesandbox.io/search?query=danielboyarinkov&page=1&configure%5BhitsPerPage%5D=12" target="_blank">
+  <img src="https://img.shields.io/badge/Codebox⠀-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+</a>
   <!--    LeetCode    -->
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  </a>
-</div>
-  
-<div align="right">
-  <!--    Telegram    -->
-  <a href="https://t.me/BitDittoWit" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/LeetCode⠀-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
