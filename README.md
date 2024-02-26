@@ -1,7 +1,7 @@
 <h3 align="left">Frontend Developer</h3>
 
 <details>
-  <summary>Contact me</summary>
+  <summary>Contacts</summary>
 
   <div align="left">
   <br/>
@@ -30,23 +30,23 @@
 
 </details>
 
-<br/>
-<br/>
-
-<div align="center"> 
-  <!--    CodeWars    -->
-  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
-  </a>
-
-<br/>
-
-<!--    LeetCode    -->
+<details>
+  <summary>Stats</summary>
+    <div align="center"> 
+    <!--    CodeWars    -->
+    <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
+      <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
+    </a>
+  
+  <br/>
+  
+  <!--    LeetCode    -->
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
 <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
   <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
   </a>
-</div>
+  </div>
+</details>
 
 <div align="right">
   <!--    Profile views    -->
