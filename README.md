@@ -1,4 +1,4 @@
-<h3 align="left">Frontend Developer &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; <a href="https://daniilboyarinkov.github.io/updated-resume/">Resume</a></h3>
+<h3 align="left">Frontend Developer &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; <a target="_blank" href="https://daniilboyarinkov.github.io/updated-resume/">Resume</a></h3>
 
 <details>
   <summary>more...</summary>
