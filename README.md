@@ -1,7 +1,7 @@
-<h3 align="left">Frontend Developer</h3>
+<h3 align="left">Frontend Developer &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; <a href="https://daniilboyarinkov.github.io/updated-resume/">Resume</a></h3>
 
 <details>
-  <summary>Contacts</summary>
+  <summary>more...</summary>
 
   <div align="left">
   <br/>
@@ -26,26 +26,24 @@
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode⠀-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
-</div>
 
-</details>
+  <br/>
+  <br/>
+  <br/>
 
-<details>
-  <summary>Stats</summary>
-    <div align="center"> 
-    <!--    CodeWars    -->
-    <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
-      <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
-    </a>
+  <!--    CodeWars    -->
+  <a href="https://www.codewars.com/users/BitDittoWit" target="_blank">
+    <img src="https://www.codewars.com/users/BitDittoWit/badges/large" alt="CodeWars" />
+  </a>
   
   <br/>
   
   <!--    LeetCode    -->
   <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-<!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
-  <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
+    <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
+    <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
   </a>
-  </div>
+</div>
 </details>
 
 <div align="right">
