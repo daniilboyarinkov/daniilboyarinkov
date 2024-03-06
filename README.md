@@ -46,11 +46,4 @@
 </div>
 </details>
 
-<div align="right">
-  <!--    Profile views    -->
-  <a href="https://github.com/daniilboyarinkov" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=daniilboyarinkov&style=plastic&color=000000" alt="Profile views" />
-  </a>
-</div>
-  
 <!------------------------------------------------------------>
