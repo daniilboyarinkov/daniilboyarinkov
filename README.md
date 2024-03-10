@@ -1,4 +1,16 @@
-<h3 align="left">Frontend Developer &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; <a target="_blank" rel="noopener noreferrer" href="https://daniilboyarinkov.github.io/updated-resume/">Resume</a></h3>
+<h3 align="left">Frontend Developer &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; &thinsp; <a target="_blank" rel="noopener noreferrer" href="https://daniilboyarinkov.github.io/resume/">Resume</a></h3>
+
+<br/>
+
+  <!--    LeetCode    -->
+  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
+    <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
+    <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=activity&border=1&radius=20" alt="LeetCode stats" />
+  </a>
+
+<br/>
+<br/>
+<br/>
 
 <details>
   <summary>more...</summary>
@@ -37,12 +49,6 @@
   </a>
   
   <br/>
-  
-  <!--    LeetCode    -->
-  <a href="https://leetcode.com/daniilboyarinkov/" target="_blank">
-    <!--     <img src="https://leetcard.jacoblin.cool/daniilboyarinkov?ext=heatmap&theme=light" alt="LeetCode" /> -->
-    <img src="https://leetcode-stats-six.vercel.app/?username=daniilboyarinkov&theme=dark" alt="LeetCode stats" />
-  </a>
 </div>
 </details>
 
